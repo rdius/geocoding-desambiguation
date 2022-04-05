@@ -1,0 +1,1420 @@
+,SNE Name,lat,lng,Country Code,Type,Population,source
+0,South Sudan,7.5,30,SS,A,8260490,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+1,DR Congo,-2.5,23.5,CD,A,84068091,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+2,Georgia,32.75042,-83.50018,US,A,8975842,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+3,Angola,41.63477,-84.99941,US,P,8644,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+4,Uganda,1.25,32.5,UG,A,42723139,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+5,Glasgow,36.99588,-85.91192,US,P,14470,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+6,Saudi Arabia,25,45,SA,A,33699947,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+7,Iran,32,53,IR,A,81800269,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+8,Sudan,16,30,SD,A,41801533,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+9,India,22,79,IN,A,1352617328,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+10,Morocco,28.5,-10,MA,A,36029138,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+11,Nigeria,10,8,NG,A,195874740,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+12,South Africa,-29,24,ZA,A,57779622,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+13,Egypt,40.6801,-75.52991,US,P,2391,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+14,Mecca,33.57219,-116.0782,US,P,8577,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+15,Cairo,30.87751,-84.20214,US,P,9752,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+16,Medina,41.11759,-81.89971,US,A,172332,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+17,Algeria,28,3,DZ,A,42228429,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+18,England,52.16045,-0.70312,GB,A,56286961,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+19,France,46,2,FR,A,66987244,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+20,Ukraine,49,32,UA,A,44622516,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+21,London,51.50853,-0.12574,GB,P,8961989,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+22,Algiers,36.74053,3.00957,DZ,A,2988145,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+23,Taiwan,24.15114,120.70541,TW,A,7095464,Taiwan_culls_18000_chickens_due_to_H5N2_virus_outbreak
+24,Kaohsiung,22.63429,120.36621,TW,A,2769072,Taiwan_culls_18000_chickens_due_to_H5N2_virus_outbreak
+25,Taoyuan,24.895,121.24611,TW,A,2044023,Taiwan_culls_18000_chickens_due_to_H5N2_virus_outbreak
+26,Babatngon,11.4238,124.8449,PH,P,6237,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+27,Balintawak,16.3645,119.8688,PH,P,0,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+28,Bulacan,6.56306,125.41,PH,P,0,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+29,Tacloban,9.21861,123.5525,PH,P,0,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+30,Quezon City,14.6488,121.0509,PH,P,2761720,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+31,Eastern Visayas,11.51649,124.96204,PH,A,3912936,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+32,Talavera,15.61667,120.93333,PH,A,124829,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+33,Pandi,14.87462,120.96683,PH,A,89075,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+34,South Africa,-29,24,ZA,A,57779622,South_African_typhoid_outbreak_protest_dispersed_with_rubber_bullets
+35,Delmas,-26.1466,28.68322,ZA,P,92046,South_African_typhoid_outbreak_protest_dispersed_with_rubber_bullets
+36,Johannesburg,-26.20227,28.04363,ZA,P,2026469,South_African_typhoid_outbreak_protest_dispersed_with_rubber_bullets
+37,Khartoum,15.55177,32.53241,SD,P,1974647,Sudan_reports_first_bird_flu_case
+38,Sudan,16,30,SD,A,41801533,Sudan_reports_first_bird_flu_case
+39,South Africa,-29,24,ZA,A,57779622,Sudan_reports_first_bird_flu_case
+40,Al Jazīrah,25.35,55.36667,AE,P,0,Sudan_reports_first_bird_flu_case
+41,Egypt,27,30,EG,A,98423595,Sudan_reports_first_bird_flu_case
+42,Etoumbi,-0.23109,14.71175,CG,A,0,Ebola_outbreak_in_Congo
+43,Zaire,-6.58717,13.51966,AO,A,567225,Ebola_outbreak_in_Congo
+44,Cuvette-Ouest,0,14.5,CG,A,50392,Ebola_outbreak_in_Congo
+45,Congo,6.75,14.56667,CM,P,0,Ebola_outbreak_in_Congo
+46,Mbomo,-2.5875,13.59889,CG,P,0,Ebola_outbreak_in_Congo
+47,Gabon,-1,11.75,GA,A,2119275,Ebola_outbreak_in_Congo
+48,Uganda,1.25,32.5,UG,A,42723139,Ebola_outbreak_in_Congo
+49,England,52.16045,-0.70312,GB,A,56286961,Fake_impotence_drugs_linked_to_low_blood_sugar_outbreak
+50,Midland,33.86113,-114.80219,US,P,0,Fake_impotence_drugs_linked_to_low_blood_sugar_outbreak
+51,Singapore,1.36667,103.8,SG,A,5638676,Fake_impotence_drugs_linked_to_low_blood_sugar_outbreak
+52,Hong Kong,22.27832,114.17469,HK,P,7482500,Fake_impotence_drugs_linked_to_low_blood_sugar_outbreak
+53,Ny,59.71667,12.46667,SE,A,780,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+54,Mindanao,15.45,-87.68333,HN,P,0,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+55,Bulacan,6.56306,125.41,PH,P,0,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+56,Philippines,13.40882,122.56155,PH,A,106651922,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+57,Manaoag,17.17233,121.76469,PH,P,0,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+58,Pongpong,16.58333,120.48333,PH,P,0,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+59,United States,39.76,-98.5,US,A,327167434,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+60,Kasai,9.60826,7.87039,NG,P,0,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+61,Province of South Cotabato,6.25218,125.0006,PH,A,767254,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+62,Province of Nueva Ecija,15.58333,121,PH,A,1853853,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+63,Central Luzon,15.30714,120.79762,PH,A,10137737,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+64,DR Congo,-2.5,23.5,CD,A,84068091,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+65,Ås,59.66366,10.79101,NO,A,15863,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+66,Province of Davao del Sur,6.79281,125.30182,PH,A,822406,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+67,Houston,31.31773,-95.42268,US,A,23732,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+68,Virginia,37.54812,-77.44675,US,A,7642884,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+69,Rome,34.25704,-85.16467,US,P,36323,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+70,Santa Maria,14.83333,121,PH,A,256454,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+71,Italy,42.83333,12.83333,IT,A,60431283,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+72,Pangasinan,10.58336,122.5178,PH,P,0,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+73,Reston,38.96872,-77.3411,US,P,58404,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+74,Talavera,15.61667,120.93333,PH,A,124829,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+75,Manila,14.6042,120.9822,PH,P,1600000,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+76,Laguna,35.03671,-107.38282,US,P,1241,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+77,Singapore,-24.56233,29.31502,ZA,P,0,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+78,Pandi,14.87462,120.96683,PH,A,89075,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+79,United States,39.76,-98.5,US,A,327167434,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+80,Mexico,23,-102,MX,A,126190788,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+81,Mexico City,19.42847,-99.12766,MX,P,12294193,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+82,Ica,-14.3325,-75.49972,PE,A,709556,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+83,Guerrero,17.66667,-100,MX,A,3237579,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+84,Acapulco,16.11417,-91.51028,MX,P,185,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+85,United States,39.76,-98.5,US,A,327167434,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+86,South Africa,-29,24,ZA,A,57779622,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+87,KwaZulu-Natal,-29,30,ZA,A,10154469,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+88,Mozambique,-18.25,35,MZ,A,29495962,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+89,Botswana,-24.28333,30.55,ZA,P,0,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+90,Johannesburg,-26.20227,28.04363,ZA,P,2026469,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+91,Kashmir,28.52261,65.40442,PK,P,0,New_Zealand_journalists_fall_ill_on_testing_water_filter
+92,New Zealand,-42,174,NZ,A,4885500,New_Zealand_journalists_fall_ill_on_testing_water_filter
+93,India,22,79,IN,A,1352617328,New_Zealand_journalists_fall_ill_on_testing_water_filter
+94,Christchurch,-43.53333,172.63333,NZ,P,363926,New_Zealand_journalists_fall_ill_on_testing_water_filter
+95,United States,39.76,-98.5,US,A,327167434,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+96,Tustin,44.16276,-88.89234,US,P,117,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+97,San Fernando Valley Division,34.25117,-118.41861,US,A,0,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+98,Los Angeles,34.19801,-118.26102,US,A,9818605,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+99,Santa Monica,34.01949,-118.49138,US,P,93220,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+100,California,37.25022,-119.75126,US,A,39512223,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+101,Hollywood,34.09834,-118.32674,US,P,167664,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+102,Glendale,33.53865,-112.18599,US,P,240126,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+103,United Kingdom,54.75844,-2.69531,GB,A,66488991,"Bird_Flu_confirmed_in_1,000_UK_turkeys"
+104,Ukraine,49,32,UA,A,44622516,"Bird_Flu_confirmed_in_1,000_UK_turkeys"
+105,Suffolk,52.16667,1,GB,A,745274,"Bird_Flu_confirmed_in_1,000_UK_turkeys"
+106,Norfolk,52.66667,1,GB,A,892870,"Bird_Flu_confirmed_in_1,000_UK_turkeys"
+107,Weybridge,51.37178,-0.45975,GB,P,19463,"Bird_Flu_confirmed_in_1,000_UK_turkeys"
+108,Niger,18,9,NE,A,22442948,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+109,Ouagadougou,12.36566,-1.53388,BF,P,1086505,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+110,Guinea,10.83333,-10.66667,GN,A,12414318,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+111,Burkina Faso,12.5,-1.66667,BF,A,19751535,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+112,Senegal,14.5,-14.25,SN,A,15854360,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+113,Benin,5.60744,-0.99696,GH,P,0,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+114,Ghana,8.1,-1.2,GH,A,29767108,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+115,Australia,-25,135,AU,A,24992369,Australia_appeals_for_no_execution_in_Indonesian_drug_case
+116,Jakarta,-6.21462,106.84513,ID,P,8540121,Australia_appeals_for_no_execution_in_Indonesian_drug_case
+117,Indonesia,-5,120,ID,A,267663435,Australia_appeals_for_no_execution_in_Indonesian_drug_case
+118,Gold Coast,-28.00029,153.43088,AU,P,591473,Australia_appeals_for_no_execution_in_Indonesian_drug_case
+119,Bali,-8.5,115,ID,A,3890757,Australia_appeals_for_no_execution_in_Indonesian_drug_case
+120,Germany,51.5,10.5,DE,A,82927922,US_military_to_buy_anthrax_and_bioweapons_production_systems
+121,Ås,59.66366,10.79101,NO,A,15863,US_military_to_buy_anthrax_and_bioweapons_production_systems
+122,Houston,31.31773,-95.42268,US,A,23732,US_military_to_buy_anthrax_and_bioweapons_production_systems
+123,Utah,39.25024,-111.75103,US,A,2427340,US_military_to_buy_anthrax_and_bioweapons_production_systems
+124,United Kingdom,54.75844,-2.69531,GB,A,66488991,WHO_director:_Pandemic_alert_level_will_not_be_raised
+125,United States,39.76,-98.5,US,A,327167434,WHO_director:_Pandemic_alert_level_will_not_be_raised
+126,Mexico,23,-102,MX,A,126190788,WHO_director:_Pandemic_alert_level_will_not_be_raised
+127,Japan,35.68536,139.75309,JP,A,126529100,WHO_director:_Pandemic_alert_level_will_not_be_raised
+128,Ukraine,49,32,UA,A,44622516,WHO_director:_Pandemic_alert_level_will_not_be_raised
+129,China,25.51224,-99.00457,MX,A,0,WHO_director:_Pandemic_alert_level_will_not_be_raised
+130,Bulacan,6.56306,125.41,PH,P,0,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak1
+131,Central Luzon,15.30714,120.79762,PH,A,10137737,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak1
+132,Pandi,14.87462,120.96683,PH,A,89075,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak1
+133,Texas,36.74791,-101.49001,US,A,20640,US_soldier_who_died_after_serving_in_Liberia_tests_negative_for_Ebola
+134,South Africa,-29,24,ZA,A,57779622,US_soldier_who_died_after_serving_in_Liberia_tests_negative_for_Ebola
+135,Houston,31.31773,-95.42268,US,A,23732,US_soldier_who_died_after_serving_in_Liberia_tests_negative_for_Ebola
+136,Liberia,6.5,-9.5,LR,A,4818977,US_soldier_who_died_after_serving_in_Liberia_tests_negative_for_Ebola
+137,Zaire,-6.58717,13.51966,AO,A,567225,"Angola:_Marburg_virus_still_spreading,_180_dead"
+138,DR Congo,-2.5,23.5,CD,A,84068091,"Angola:_Marburg_virus_still_spreading,_180_dead"
+139,Uige Municipality,-7.57488,15.06775,AO,A,0,"Angola:_Marburg_virus_still_spreading,_180_dead"
+140,Luanda,-8.91667,13.33924,AO,A,6542942,"Angola:_Marburg_virus_still_spreading,_180_dead"
+141,Mozambique,-18.25,35,MZ,A,29495962,"Angola:_Marburg_virus_still_spreading,_180_dead"
+142,Angola,-12.5,18.5,AO,A,30809762,"Angola:_Marburg_virus_still_spreading,_180_dead"
+143,Greece,39,22,GR,A,10727668,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+144,Germany,51.5,10.5,DE,A,82927922,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+145,Slovenia,46.08333,15,SI,A,2067372,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+146,Austria,47.33333,13.33333,AT,A,8847037,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+147,Croatia,45.16667,15.5,HR,A,4089400,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+148,Ukraine,49,32,UA,A,44622516,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+149,Bulgaria,42.66667,25.25,BG,A,7000039,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+150,South Africa,-29,24,ZA,A,57779622,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+151,Russia,60,100,RU,A,144478050,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+152,Italy,42.83333,12.83333,IT,A,60431283,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+153,Denmark,56,10,DK,A,5797446,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+154,United States,39.76,-98.5,US,A,327167434,Salmonella_outbreak_sickens_over_one_thousand_in_United_States
+155,Texas,36.74791,-101.49001,US,A,20640,Salmonella_outbreak_sickens_over_one_thousand_in_United_States
+156,New Mexico,34.50034,-106.00085,US,A,1912684,Salmonella_outbreak_sickens_over_one_thousand_in_United_States
+157,Illinois,40.00032,-89.25037,US,A,12772888,Salmonella_outbreak_sickens_over_one_thousand_in_United_States
+158,Canada,60.10867,-113.64258,CA,A,37058856,Salmonella_outbreak_sickens_over_one_thousand_in_United_States
+159,Kvemo-Zonkari,42.28861,44.16987,GE,P,0,PM_of_Georgia_dies_of_gas_poisoning
+160,Georgia,32.75042,-83.50018,US,A,8975842,PM_of_Georgia_dies_of_gas_poisoning
+161,Michigan,44.25029,-85.50033,US,A,9883360,Anthrax_scare_closes_Michigan_newspaper_office
+162,Ås,59.66366,10.79101,NO,A,15863,Anthrax_scare_closes_Michigan_newspaper_office
+163,Lansing,42.73253,-84.55553,US,P,115056,Anthrax_scare_closes_Michigan_newspaper_office
+164,Midland,31.86917,-102.03162,US,A,136872,Anthrax_scare_closes_Michigan_newspaper_office
+165,Clark,40.41036,-91.7384,US,A,7139,B.B._King%27s_daughters_allege_blues_musician_was_poisoned
+166,Nevada,39.25021,-116.75119,US,A,2399532,B.B._King%27s_daughters_allege_blues_musician_was_poisoned
+167,Las Vegas,36.17497,-115.13722,US,P,623747,B.B._King%27s_daughters_allege_blues_musician_was_poisoned
+168,England,52.16045,-0.70312,GB,A,56286961,H5N1_bird_flu_virus_reaches_Poland
+169,Toruń,52.51829,20.71985,PL,P,0,H5N1_bird_flu_virus_reaches_Poland
+170,Poland,52,20,PL,A,37978548,H5N1_bird_flu_virus_reaches_Poland
+171,Weybridge,51.37178,-0.45975,GB,P,19463,H5N1_bird_flu_virus_reaches_Poland
+172,Wedza,-18.61731,31.5736,ZW,P,0,"With_arrival_of_rainy_season,_perennial_scramble_in_Zimbabwe_for_seed,_fertilizer"
+173,Zimbabwe,-20.26667,30.91667,ZW,P,0,"With_arrival_of_rainy_season,_perennial_scramble_in_Zimbabwe_for_seed,_fertilizer"
+174,Mashonaland East Province,-17.96667,31.66667,ZW,A,1167065,"With_arrival_of_rainy_season,_perennial_scramble_in_Zimbabwe_for_seed,_fertilizer"
+175,Midlands,-17.90444,31.01417,ZW,P,0,"With_arrival_of_rainy_season,_perennial_scramble_in_Zimbabwe_for_seed,_fertilizer"
+176,Cambodia,13,105,KH,A,16249798,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+177,Laos,18,105,LA,A,7061507,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+178,Pingilikani,-3.7742,39.77375,KE,P,0,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+179,United States,39.76,-98.5,US,A,327167434,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+180,Vietnam,16.16667,107.83333,VN,A,95540395,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+181,Myanmar,21,96,MM,A,53708395,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+182,Shwe Kyin,22.73328,95.93972,MM,P,0,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+183,Kinshasa,-4.32758,15.31357,CD,P,7785965,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+184,South Africa,-29,24,ZA,A,57779622,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+185,Ukraine,49,32,UA,A,44622516,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+186,Attapu,14.66667,107,LA,A,114300,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+187,Phuoc Vinh,11.2897,106.79621,VN,P,0,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+188,DR Congo,-2.5,23.5,CD,A,84068091,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+189,Kenya,1,38,KE,A,51393010,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+190,Pailin,12.86667,102.6,KH,A,70482,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+191,Australia,-25,135,AU,A,24992369,72_hour_Australia_wide_ban_on_horse_movements
+192,New South Wales,-33,146,AU,A,8046100,72_hour_Australia_wide_ban_on_horse_movements
+193,New Zealand,-42,174,NZ,A,4885500,72_hour_Australia_wide_ban_on_horse_movements
+194,Brunswick Heads,-28.54003,153.54573,AU,P,2032,72_hour_Australia_wide_ban_on_horse_movements
+195,Victoria,-37,145,AU,A,6526400,72_hour_Australia_wide_ban_on_horse_movements
+196,Sydney,-33.86785,151.20732,AU,P,4627345,72_hour_Australia_wide_ban_on_horse_movements
+197,Australia,-25,135,AU,A,24992369,Kenyan_cattle_rustlers_kill_eleven
+198,New South Wales,-33,146,AU,A,8046100,Kenyan_cattle_rustlers_kill_eleven
+199,New Zealand,-42,174,NZ,A,4885500,Kenyan_cattle_rustlers_kill_eleven
+200,Brunswick Heads,-28.54003,153.54573,AU,P,2032,Kenyan_cattle_rustlers_kill_eleven
+201,Victoria,-37,145,AU,A,6526400,Kenyan_cattle_rustlers_kill_eleven
+202,Sydney,-33.86785,151.20732,AU,P,4627345,Kenyan_cattle_rustlers_kill_eleven
+203,Isiolo,0.98333,38.53333,KE,A,143294,Kenyan_cattle_rustlers_kill_eleven
+204,Kisima,0.94807,36.76599,KE,P,0,Kenyan_cattle_rustlers_kill_eleven
+205,Kenya,1,38,KE,A,51393010,Kenyan_cattle_rustlers_kill_eleven
+206,Australia,-25,135,AU,A,24992369,Toxic_wetlands_may_be_cause_of_thousands_of_bird_deaths_in_Western_Australia
+207,Esperance,-33.85919,121.89164,AU,P,2263,Toxic_wetlands_may_be_cause_of_thousands_of_bird_deaths_in_Western_Australia
+208,Temryuk,45.27055,37.38716,RU,P,36546,Bird_flu_outbreak_kills_birds_in_Krasnodar_region
+209,Anapa,44.89497,37.31623,RU,P,53600,Bird_flu_outbreak_kills_birds_in_Krasnodar_region
+210,Krasnodar,45.04484,38.97603,RU,P,649851,Bird_flu_outbreak_kills_birds_in_Krasnodar_region
+211,Russia,60,100,RU,A,144478050,Bird_flu_outbreak_kills_birds_in_Krasnodar_region
+212,Zimbabwe,-20.26667,30.91667,ZW,P,0,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+213,South Africa,-29,24,ZA,A,57779622,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+214,Zambia,-14.33333,28.5,ZM,A,17351822,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+215,South Africa,-29,24,ZA,A,57779622,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+216,Malawi,-13.5,34,MW,A,17563749,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+217,Mozambique,-18.25,35,MZ,A,29495962,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+218,Queensland,-20,145,AU,A,5052800,Horse_flu_infects_Australian_thoroughbreds
+219,Brunswick Heads,-28.54003,153.54573,AU,P,2032,Horse_flu_infects_Australian_thoroughbreds
+220,Melbourne,-37.814,144.96332,AU,P,4246375,Horse_flu_infects_Australian_thoroughbreds
+221,Sydney,-33.86785,151.20732,AU,P,4627345,Horse_flu_infects_Australian_thoroughbreds
+222,Randwick,-33.91667,151.25,AU,A,142310,Horse_flu_infects_Australian_thoroughbreds
+223,United States,39.76,-98.5,US,A,327167434,"Drug-resistant_flu_rising,_says_WHO"
+224,Norway,62,10,NO,A,5314336,"Drug-resistant_flu_rising,_says_WHO"
+225,Japan,35.68536,139.75309,JP,A,126529100,"Drug-resistant_flu_rising,_says_WHO"
+226,Hong Kong,22.27832,114.17469,HK,P,7482500,"Drug-resistant_flu_rising,_says_WHO"
+227,Canada,60.10867,-113.64258,CA,A,37058856,"Drug-resistant_flu_rising,_says_WHO"
+228,Massachusetts,42.36565,-71.10832,US,A,6433422,Meteorite_blamed_for_mysterious_illness_in_Peru
+229,Earth,34.23314,-102.41075,US,P,1012,Meteorite_blamed_for_mysterious_illness_in_Peru
+230,Puno,-15.905,-70.06368,PE,A,0,Meteorite_blamed_for_mysterious_illness_in_Peru
+231,London,39.88645,-83.44825,US,P,10060,Meteorite_blamed_for_mysterious_illness_in_Peru
+232,Peru,40.75365,-86.06888,US,P,11060,Meteorite_blamed_for_mysterious_illness_in_Peru
+233,Desaguadero,-16.56556,-69.04167,PE,P,5329,Meteorite_blamed_for_mysterious_illness_in_Peru
+234,Bolivia,-17,-65,BO,A,11353142,Meteorite_blamed_for_mysterious_illness_in_Peru
+235,Washington,44.27342,-72.6149,US,A,59534,Mad_Cow_disease_confirmed_in_U.S.
+236,Texas,36.74791,-101.49001,US,A,20640,Mad_Cow_disease_confirmed_in_U.S.
+237,Iowa,42.00027,-93.50049,US,A,2955010,Mad_Cow_disease_confirmed_in_U.S.
+238,Alabama,32.75041,-86.75026,US,A,4530315,Mad_Cow_disease_confirmed_in_U.S.
+239,Sweden,62,15,SE,A,10183175,Mad_Cow_disease_confirmed_in_U.S.
+240,Ås,59.66366,10.79101,NO,A,15863,Mad_Cow_disease_confirmed_in_U.S.
+241,Georgia,32.75042,-83.50018,US,A,8975842,Mad_Cow_disease_confirmed_in_U.S.
+242,Ames,42.03471,-93.61994,US,P,65060,Mad_Cow_disease_confirmed_in_U.S.
+243,Canada,60.10867,-113.64258,CA,A,37058856,Mad_Cow_disease_confirmed_in_U.S.
+244,Pennsylvania,40.8,-77.7,US,A,12440621,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+245,South Africa,-29,24,ZA,A,57779622,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+246,Crawford,41.6847,-80.10628,US,A,88765,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+247,Queen Anne,38.92095,-75.95522,US,P,216,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+248,Maryland,39.00039,-76.74997,US,A,5624246,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+249,Alabama,32.75041,-86.75026,US,A,4530315,"Alabama_postal_workers_and_customers_become_ill,_suspicious_substance_found"
+250,Hueytown,33.45122,-86.99666,US,P,15710,"Alabama_postal_workers_and_customers_become_ill,_suspicious_substance_found"
+251,Birmingham,33.52066,-86.80249,US,P,212461,"Alabama_postal_workers_and_customers_become_ill,_suspicious_substance_found"
+252,Mississauga,43.5789,-79.6583,CA,P,668549,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+253,United States,39.76,-98.5,US,A,327167434,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+254,Ceres,37.59493,-120.95771,US,P,47963,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+255,China,35,105,CN,A,1392730000,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+256,California,37.25022,-119.75126,US,A,39512223,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+257,Ontario,34.06334,-117.65089,US,P,171214,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+258,Canada,60.10867,-113.64258,CA,A,37058856,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+259,Spain,40,-4,ES,A,46723749,Swine_flu_reported_in_more_countries
+260,Mexico City,19.42847,-99.12766,MX,P,12294193,Swine_flu_reported_in_more_countries
+261,Kansas,38.50029,-98.50063,US,A,2740759,Swine_flu_reported_in_more_countries
+262,United Kingdom,54.75844,-2.69531,GB,A,66488991,Swine_flu_reported_in_more_countries
+263,Ohio,38.9501,-84.96503,US,A,6128,Swine_flu_reported_in_more_countries
+264,United States,39.76,-98.5,US,A,327167434,Swine_flu_reported_in_more_countries
+265,South Korea,36.5,127.75,KR,A,51635256,Swine_flu_reported_in_more_countries
+266,New Zealand,-42,174,NZ,A,4885500,Swine_flu_reported_in_more_countries
+267,Texas,36.74791,-101.49001,US,A,20640,Swine_flu_reported_in_more_countries
+268,Mexico,23,-102,MX,A,126190788,Swine_flu_reported_in_more_countries
+269,New York,40.77427,-73.96981,US,A,1585873,Swine_flu_reported_in_more_countries
+270,California,37.25022,-119.75126,US,A,39512223,Swine_flu_reported_in_more_countries
+271,Canada,60.10867,-113.64258,CA,A,37058856,Swine_flu_reported_in_more_countries
+272,Israel,16.815,-92.09444,MX,P,255,Swine_flu_reported_in_more_countries
+273,United States,39.76,-98.5,US,A,327167434,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+274,New York,40.77427,-73.96981,US,A,1585873,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+275,Buffalo,42.88645,-78.87837,US,P,258071,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+276,Toronto,40.46423,-80.60091,US,P,4882,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+277,Ontario,34.06334,-117.65089,US,P,171214,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+278,Canada,60.10867,-113.64258,CA,A,37058856,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+279,Zimbabwe,-20.26667,30.91667,ZW,P,0,Five_cholera_deaths_recorded_in_Zimbabwe_amid_fears_of_new_epidemic
+280,Masvingo,-19.40928,31.87364,ZW,P,0,Five_cholera_deaths_recorded_in_Zimbabwe_amid_fears_of_new_epidemic
+281,Manicaland,-19,32.41667,ZW,A,1590136,Five_cholera_deaths_recorded_in_Zimbabwe_amid_fears_of_new_epidemic
+282,Mashonaland West,-17.16667,29.75,ZW,A,1270629,Five_cholera_deaths_recorded_in_Zimbabwe_amid_fears_of_new_epidemic
+283,Midlands,-17.90444,31.01417,ZW,P,0,Five_cholera_deaths_recorded_in_Zimbabwe_amid_fears_of_new_epidemic
+284,Massachusetts,42.36565,-71.10832,US,A,6433422,Mosquitoes_test_positive_for_West_Nile_virus_in_Rhode_Island
+285,Rhode Island,41.75038,-71.49978,US,A,1050292,Mosquitoes_test_positive_for_West_Nile_virus_in_Rhode_Island
+286,East Providence,41.81371,-71.37005,US,P,47408,Mosquitoes_test_positive_for_West_Nile_virus_in_Rhode_Island
+287,Barrington,41.74066,-71.30866,US,P,16669,Mosquitoes_test_positive_for_West_Nile_virus_in_Rhode_Island
+288,Cedar City,38.59726,-92.17963,US,P,0,U.S._Democrats_highlight_water_quality_issues_for_troops_in_Iraq
+289,Iraq,33,44,IQ,A,38433600,U.S._Democrats_highlight_water_quality_issues_for_troops_in_Iraq
+290,Kuwait,29.5,47.75,KW,A,4137309,U.S._Democrats_highlight_water_quality_issues_for_troops_in_Iraq
+291,Ås,59.66366,10.79101,NO,A,15863,U.S._Democrats_highlight_water_quality_issues_for_troops_in_Iraq
+292,Utah,39.25024,-111.75103,US,A,2427340,U.S._Democrats_highlight_water_quality_issues_for_troops_in_Iraq
+293,Somalia,6,48,SO,A,15008154,"Tsunami_deaths_mount_to_more_than_120,000"
+294,Malaysia,2.5,112.5,MY,A,31528585,"Tsunami_deaths_mount_to_more_than_120,000"
+295,Maldives,3.2,73,MV,A,515696,"Tsunami_deaths_mount_to_more_than_120,000"
+296,Tanzania,-6,35,TZ,A,56318348,"Tsunami_deaths_mount_to_more_than_120,000"
+297,Myanmar,21,96,MM,A,53708395,"Tsunami_deaths_mount_to_more_than_120,000"
+298,India,22,79,IN,A,1352617328,"Tsunami_deaths_mount_to_more_than_120,000"
+299,Sri Lanka,7.75,80.75,LK,A,21670000,"Tsunami_deaths_mount_to_more_than_120,000"
+300,Bangladesh,24,90,BD,A,161356039,"Tsunami_deaths_mount_to_more_than_120,000"
+301,Indonesia,-5,120,ID,A,267663435,"Tsunami_deaths_mount_to_more_than_120,000"
+302,Sweden,62,15,SE,A,10183175,"Tsunami_deaths_mount_to_more_than_120,000"
+303,Aceh,4,97,ID,A,4748085,"Tsunami_deaths_mount_to_more_than_120,000"
+304,Kenya,1,38,KE,A,51393010,"Tsunami_deaths_mount_to_more_than_120,000"
+305,Nepal,28,84,NP,A,28087871,"Ritual_sacrifice_in_Nepal_sees_320,000_animals_slaughtered_to_Hindu_goddess"
+306,India,22,79,IN,A,1352617328,"Ritual_sacrifice_in_Nepal_sees_320,000_animals_slaughtered_to_Hindu_goddess"
+307,Bariyarpur,26.9378,85.3477,NP,A,0,"Ritual_sacrifice_in_Nepal_sees_320,000_animals_slaughtered_to_Hindu_goddess"
+308,Kisumu,-0.069,34.64,KE,A,968909,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+309,United Kingdom,54.75844,-2.69531,GB,A,66488991,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+310,Garissa,-0.45275,39.64601,KE,P,67861,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+311,Ukraine,49,32,UA,A,44622516,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+312,East,3.83333,14.16667,CM,A,836906,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+313,Kenya,1,38,KE,A,51393010,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+314,Nairobi,-1.28333,36.83333,KE,A,3138369,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+315,Nottingham,52.96667,-1.15,GB,A,325282,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+316,Kaluamba,-9.2466,25.09805,CD,P,0,WHO_investigates_outbreak_of_unidentified_illness_in_Democratic_Republic_of_the_Congo
+317,Kasaï-Occidental,-5.33333,21.58333,CD,A,4545940,WHO_investigates_outbreak_of_unidentified_illness_in_Democratic_Republic_of_the_Congo
+318,Kampungu,-5.21801,21.42734,CD,P,0,WHO_investigates_outbreak_of_unidentified_illness_in_Democratic_Republic_of_the_Congo
+319,Mombo,-5.16877,21.35683,CD,P,0,WHO_investigates_outbreak_of_unidentified_illness_in_Democratic_Republic_of_the_Congo
+320,Texas,36.74791,-101.49001,US,A,20640,HIV-positive_man_receives_35_years_for_spitting_on_Dallas_police_officer
+321,Dallas,33.92371,-84.84077,US,P,12870,HIV-positive_man_receives_35_years_for_spitting_on_Dallas_police_officer
+322,Dallas,32.76663,-96.77787,US,A,2368139,HIV-positive_man_receives_35_years_for_spitting_on_Dallas_police_officer
+323,Guinea-Bissau,12,-15,GW,A,1874309,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+324,Niger,18,9,NE,A,22442948,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+325,Cameroon,6,12.5,CM,A,25216237,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+326,Nigeria,10,8,NG,A,195874740,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+327,Burkina Faso,12.5,-1.66667,BF,A,19751535,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+328,Guinea,10.83333,-10.66667,GN,A,12414318,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+329,Mauritania,20.25,-10.5,MR,A,4403319,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+330,West,5.5,10.66667,CM,A,1339791,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+331,Central,-22,26,BW,A,188174,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+332,Mali,12.08333,-12.08333,GN,A,288001,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+333,Senegal,14.5,-14.25,SN,A,15854360,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+334,Chad,15,19,TD,A,15477751,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+335,Liberia,6.5,-9.5,LR,A,4818977,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+336,Jakarta,-6.21462,106.84513,ID,P,8540121,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+337,United States,39.76,-98.5,US,A,327167434,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+338,Choropampa,-6.42308,-78.34672,PE,P,320,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+339,Indonesia,-5,120,ID,A,267663435,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+340,Ås,59.66366,10.79101,NO,A,15863,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+341,Yanacocha,-10.47135,-76.50188,PE,P,553,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+342,Peru,-10,-75.25,PE,A,31989256,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+343,Denver,39.73915,-104.9847,US,P,715522,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+344,San Juan,-3.77611,-73.28139,PE,P,78153,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+345,Cajamarca,-6.25,-78.83333,PE,A,1359023,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+346,Magdalena,-7.22473,-78.62238,PE,A,0,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+347,Nigeria,10,8,NG,A,195874740,Scottish_Ebola_nurse_Pauline_Cafferkey_%27critically_ill%27_says_Royal_Free_Hospital
+348,Zamfara State,12.16667,6.25,NG,A,3602356,Scottish_Ebola_nurse_Pauline_Cafferkey_%27critically_ill%27_says_Royal_Free_Hospital
+349,London,51.50853,-0.12574,GB,P,8961989,Scottish_Ebola_nurse_Pauline_Cafferkey_%27critically_ill%27_says_Royal_Free_Hospital
+350,Glasgow,55.86515,-4.25763,GB,P,591620,Scottish_Ebola_nurse_Pauline_Cafferkey_%27critically_ill%27_says_Royal_Free_Hospital
+351,Sierra Leone,8.5,-11.5,SL,A,7650154,Scottish_Ebola_nurse_Pauline_Cafferkey_%27critically_ill%27_says_Royal_Free_Hospital
+352,Dominican Republic,19,-70.66667,DO,A,10627165,"%27Explosive%27_Haitian_cholera_outbreak_kills_292,_neighboring_countries_prepare"
+353,Port-au-Prince,18.52557,-72.33697,HT,A,0,"%27Explosive%27_Haitian_cholera_outbreak_kills_292,_neighboring_countries_prepare"
+354,Jamaica,18.16667,-77.25,JM,A,2934855,"%27Explosive%27_Haitian_cholera_outbreak_kills_292,_neighboring_countries_prepare"
+355,Haiti,19.80158,-71.31936,DO,A,0,"%27Explosive%27_Haitian_cholera_outbreak_kills_292,_neighboring_countries_prepare"
+356,Buskerud,59.7484,10.1891,NO,A,253006,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+357,Vest-Agder,58.1513,7.9947,NO,A,161276,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+358,Telemark,59.2161,9.6112,NO,A,170643,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+359,Oppland,61.1163,10.4622,NO,A,183851,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+360,Rogaland,59.09608,6.20442,NO,A,393104,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+361,Aust-Agder,58.4643,8.768,NO,A,106842,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+362,Vestfold,59.2654,10.4159,NO,A,236424,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+363,Akershus,60,11.16667,NO,A,523272,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+364,Indre Østfold,59.59654,11.21635,NO,A,0,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+365,Oslo,59.91273,10.74609,NO,P,580000,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+366,Hedmark,60.7953,11.0827,NO,A,188376,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+367,Russia,60,100,RU,A,144478050,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+368,Pakistan,30,70,PK,A,212215030,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+369,Khyber Pakhtunkhwa,33.98306,71.68611,PK,A,22000000,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+370,Britain,39.25288,-77.69694,US,P,0,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+371,Malaysia,2.5,112.5,MY,A,31528585,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+372,Sindh,26.13333,68.76667,PK,A,35992288,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+373,Ukraine,49,32,UA,A,44622516,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+374,Ås,59.66366,10.79101,NO,A,15863,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+375,Punjab,30.85,72.31667,PK,A,85579866,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+376,Kalam,35.4818,72.57809,PK,P,0,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+377,Jefferson,29.68097,-90.09798,US,A,432552,Katrina_survivor_searchers_prepare_for_the_worst
+378,Saint Bernard,29.87399,-89.82422,US,A,35897,Katrina_survivor_searchers_prepare_for_the_worst
+379,Houston,31.31773,-95.42268,US,A,23732,Katrina_survivor_searchers_prepare_for_the_worst
+380,Central Business District,47.60818,-122.33488,US,P,0,Katrina_survivor_searchers_prepare_for_the_worst
+381,New Orleans,29.95465,-90.07507,US,P,389617,Katrina_survivor_searchers_prepare_for_the_worst
+382,India,22,79,IN,A,1352617328,"150,000_street_vendors_in_India_shown_how_to_avoid_causing_%27Delhi_belly%27"
+383,Calcutta,40.6734,-80.57646,US,P,3742,"150,000_street_vendors_in_India_shown_how_to_avoid_causing_%27Delhi_belly%27"
+384,Delhi,28.6667,77.1,IN,A,16787941,"150,000_street_vendors_in_India_shown_how_to_avoid_causing_%27Delhi_belly%27"
+385,Turkey,39,35,TR,A,82319724,UN_warns_neighbours_of_Turkey_about_bird_flu
+386,Iran,32,53,IR,A,81800269,UN_warns_neighbours_of_Turkey_about_bird_flu
+387,Iraq,33,44,IQ,A,38433600,UN_warns_neighbours_of_Turkey_about_bird_flu
+388,Azerbaijan,40.5,47.5,AZ,A,9942334,UN_warns_neighbours_of_Turkey_about_bird_flu
+389,Syria,38.58617,-86.40165,US,P,0,UN_warns_neighbours_of_Turkey_about_bird_flu
+390,Georgia,32.75042,-83.50018,US,A,8975842,UN_warns_neighbours_of_Turkey_about_bird_flu
+391,Armenia,40.25,45,AM,A,2951776,UN_warns_neighbours_of_Turkey_about_bird_flu
+392,Turkey,39,35,TR,A,82319724,California_Senate_prohibits_sports_drinks_in_public_schools
+393,Iran,32,53,IR,A,81800269,California_Senate_prohibits_sports_drinks_in_public_schools
+394,Iraq,33,44,IQ,A,38433600,California_Senate_prohibits_sports_drinks_in_public_schools
+395,Azerbaijan,40.5,47.5,AZ,A,9942334,California_Senate_prohibits_sports_drinks_in_public_schools
+396,Syria,38.58617,-86.40165,US,P,0,California_Senate_prohibits_sports_drinks_in_public_schools
+397,Georgia,32.75042,-83.50018,US,A,8975842,California_Senate_prohibits_sports_drinks_in_public_schools
+398,Armenia,40.25,45,AM,A,2951776,California_Senate_prohibits_sports_drinks_in_public_schools
+399,California,37.25022,-119.75126,US,A,39512223,California_Senate_prohibits_sports_drinks_in_public_schools
+400,Australia,-25,135,AU,A,24992369,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+401,Tortí,8.92151,-78.39845,PA,P,1611,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+402,Panamá,-5.82551,-78.26641,PE,P,76,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+403,Américas,9.89896,-83.67407,CR,P,0,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+404,Ica,-14.3325,-75.49972,PE,A,709556,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+405,Central,-26.23372,-57.1801,PY,A,0,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+406,Panama,9,-80,PA,A,4176873,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+407,Netherlands,52.25,5.75,NL,A,17231017,World_Health_Organization:_Stay_away_from_Ugandan_caves
+408,Uganda,1.25,32.5,UG,A,42723139,World_Health_Organization:_Stay_away_from_Ugandan_caves
+409,Poland,52,20,PL,A,37978548,New_outbreak_of_H5N1_Avian_Flu_virus_reported_in_Poland
+410,Bieżuń,52.96107,19.88976,PL,P,1931,New_outbreak_of_H5N1_Avian_Flu_virus_reported_in_Poland
+411,Orneta,54.11483,20.13328,PL,P,9412,New_outbreak_of_H5N1_Avian_Flu_virus_reported_in_Poland
+412,Pakistan,30,70,PK,A,212215030,Bad_weather_makes_life_tougher_for_quake_survivors
+413,Australia,-25,135,AU,A,24992369,Bad_weather_makes_life_tougher_for_quake_survivors
+414,Kashmir,28.52261,65.40442,PK,P,0,Bad_weather_makes_life_tougher_for_quake_survivors
+415,Iran,32,53,IR,A,81800269,Bad_weather_makes_life_tougher_for_quake_survivors
+416,Jammu and Kashmir,33.5329,75.40781,IN,A,12258433,Bad_weather_makes_life_tougher_for_quake_survivors
+417,France,46,2,FR,A,66987244,Bad_weather_makes_life_tougher_for_quake_survivors
+418,Japan,35.68536,139.75309,JP,A,126529100,Bad_weather_makes_life_tougher_for_quake_survivors
+419,Houston,31.31773,-95.42268,US,A,23732,Bad_weather_makes_life_tougher_for_quake_survivors
+420,Russia,60,100,RU,A,144478050,Bad_weather_makes_life_tougher_for_quake_survivors
+421,Syria,38.58617,-86.40165,US,P,0,Bad_weather_makes_life_tougher_for_quake_survivors
+422,China,35,105,CN,A,1392730000,Bad_weather_makes_life_tougher_for_quake_survivors
+423,Jordan,44.66691,-93.6269,US,P,6076,Bad_weather_makes_life_tougher_for_quake_survivors
+424,United States,39.76,-98.5,US,A,327167434,California_company_recalls_fresh_spinach_over_salmonella_contamination
+425,Canada,60.10867,-113.64258,CA,A,37058856,California_company_recalls_fresh_spinach_over_salmonella_contamination
+426,California,37.25022,-119.75126,US,A,39512223,California_company_recalls_fresh_spinach_over_salmonella_contamination
+427,Cambodia,13,105,KH,A,16249798,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+428,Laos,18,105,LA,A,7061507,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+429,Vietnam,16.16667,107.83333,VN,A,95540395,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+430,Indonesia,-5,120,ID,A,267663435,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+431,Thailand,15.5,101,TH,A,69428524,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+432,Hong Kong,22.25,114.16667,HK,A,7451000,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+433,Hong Kong,22.95805,-109.93898,MX,P,5,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+434,China,25.51224,-99.00457,MX,A,0,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+435,Turkey,39,35,TR,A,82319724,Turkish_teenager_dies_from_bird_flu
+436,Britain,39.25288,-77.69694,US,P,0,Turkish_teenager_dies_from_bird_flu
+437,Van,38.40736,43.71779,TR,A,1070113,Turkish_teenager_dies_from_bird_flu
+438,Spain,40,-4,ES,A,46723749,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+439,Arkansas,34.75037,-92.50044,US,A,2757631,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+440,Britain,39.25288,-77.69694,US,P,0,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+441,Little Rock,41.71753,-88.57619,US,P,0,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+442,Ås,59.66366,10.79101,NO,A,15863,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+443,Houston,31.31773,-95.42268,US,A,23732,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+444,Italy,42.83333,12.83333,IT,A,60431283,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+445,South,2.75,11.58333,CM,A,634655,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+446,Israel,31.5,34.75,IL,A,8883800,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+447,Vietnam,16.16667,107.83333,VN,A,95540395,US_and_Vietnam_begin_talks_to_decontaminate_areas_affected_by_Agent_Orange
+448,United States,39.76,-98.5,US,A,327167434,US_and_Vietnam_begin_talks_to_decontaminate_areas_affected_by_Agent_Orange
+449,Houston,31.31773,-95.42268,US,A,23732,US_and_Vietnam_begin_talks_to_decontaminate_areas_affected_by_Agent_Orange
+450,Hanoi,21.0245,105.84117,VN,P,8053663,US_and_Vietnam_begin_talks_to_decontaminate_areas_affected_by_Agent_Orange
+451,Hohhot,40.81056,111.65222,CN,P,2350000,China_and_Europe_face_new_avian_flu_outbreaks
+452,Romania,46,25,RO,A,19473936,China_and_Europe_face_new_avian_flu_outbreaks
+453,Macedonia,41.31367,-81.50845,US,P,11686,China_and_Europe_face_new_avian_flu_outbreaks
+454,Inner Mongolia,43.5,114.75,CN,A,24259735,China_and_Europe_face_new_avian_flu_outbreaks
+455,Russia,60,100,RU,A,144478050,China_and_Europe_face_new_avian_flu_outbreaks
+456,Moscow,55.76167,37.60667,RU,A,11503501,China_and_Europe_face_new_avian_flu_outbreaks
+457,China,35,105,CN,A,1392730000,China_and_Europe_face_new_avian_flu_outbreaks
+458,Irwindale,34.10695,-117.93534,US,P,1437,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+459,Pennsylvania,40.8,-77.7,US,A,12440621,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+460,New Jersey,40.16706,-74.49987,US,A,8751436,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+461,Texas,36.74791,-101.49001,US,A,20640,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+462,New York,40.77427,-73.96981,US,A,1585873,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+463,Ås,59.66366,10.79101,NO,A,15863,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+464,Atlantic,39.46883,-74.63373,US,A,274549,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+465,City of New York,40.66393,-73.93827,US,A,8175133,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+466,Ås,59.66366,10.79101,NO,A,15863,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+467,Irvine,33.66946,-117.82311,US,P,256927,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+468,Long Island,43.68425,-70.17116,US,P,210,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+469,California,37.25022,-119.75126,US,A,39512223,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+470,Oxnard,34.1975,-119.17705,US,P,207254,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+471,Canada,60.10867,-113.64258,CA,A,37058856,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+472,British Columbia,53.99983,-125.0032,CA,A,4413973,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+473,United Kingdom,54.75844,-2.69531,GB,A,66488991,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+474,United States,39.76,-98.5,US,A,327167434,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+475,Alberta,52.28333,-117.469,CA,A,3497881,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+476,Fraser Valley,49.58299,-121.83587,CA,A,277000,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+477,Ås,59.66366,10.79101,NO,A,15863,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+478,Vancouver,49.24966,-123.11934,CA,P,600000,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+479,Canada,60.10867,-113.64258,CA,A,37058856,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+480,British Columbia,53.99983,-125.0032,CA,A,4413973,Children_poisoned_by_tainted_cassava_in_the_Philippines
+481,United Kingdom,54.75844,-2.69531,GB,A,66488991,Children_poisoned_by_tainted_cassava_in_the_Philippines
+482,United States,39.76,-98.5,US,A,327167434,Children_poisoned_by_tainted_cassava_in_the_Philippines
+483,Alberta,52.28333,-117.469,CA,A,3497881,Children_poisoned_by_tainted_cassava_in_the_Philippines
+484,Fraser Valley,49.58299,-121.83587,CA,A,277000,Children_poisoned_by_tainted_cassava_in_the_Philippines
+485,Ås,59.66366,10.79101,NO,A,15863,Children_poisoned_by_tainted_cassava_in_the_Philippines
+486,Vancouver,49.24966,-123.11934,CA,P,600000,Children_poisoned_by_tainted_cassava_in_the_Philippines
+487,Canada,60.10867,-113.64258,CA,A,37058856,Children_poisoned_by_tainted_cassava_in_the_Philippines
+488,Mabini,13.73189,120.9126,PH,A,46211,Children_poisoned_by_tainted_cassava_in_the_Philippines
+489,Bohol,9.83333,124.16667,PH,A,1230110,Children_poisoned_by_tainted_cassava_in_the_Philippines
+490,British Columbia,53.99983,-125.0032,CA,A,4413973,U.S._superbug_expected_to_emerge_in_Canada
+491,United States,39.76,-98.5,US,A,327167434,U.S._superbug_expected_to_emerge_in_Canada
+492,Alberta,52.28333,-117.469,CA,A,3497881,U.S._superbug_expected_to_emerge_in_Canada
+493,Saskatchewan,50.16722,-100.00446,CA,A,0,U.S._superbug_expected_to_emerge_in_Canada
+494,Ås,59.66366,10.79101,NO,A,15863,U.S._superbug_expected_to_emerge_in_Canada
+495,Calgary,51.05011,-114.08529,CA,P,1019942,U.S._superbug_expected_to_emerge_in_Canada
+496,Manitoba,55.00019,-97.00049,CA,A,1193566,U.S._superbug_expected_to_emerge_in_Canada
+497,Ontario,49.25014,-84.49983,CA,A,12861940,U.S._superbug_expected_to_emerge_in_Canada
+498,Canada,60.10867,-113.64258,CA,A,37058856,U.S._superbug_expected_to_emerge_in_Canada
+499,Toronto,43.70011,-79.4163,CA,P,2600000,U.S._superbug_expected_to_emerge_in_Canada
+500,Mabvuku,-17.83624,31.18655,ZW,P,0,Number_of_Zimbabwe_cholera_deaths_nears_500
+501,Zimbabwe,-20.26667,30.91667,ZW,P,0,Number_of_Zimbabwe_cholera_deaths_nears_500
+502,South Africa,-29,24,ZA,A,57779622,Number_of_Zimbabwe_cholera_deaths_nears_500
+503,Mozambique,-18.25,35,MZ,A,29495962,Number_of_Zimbabwe_cholera_deaths_nears_500
+504,Harare,-17.85417,31.05833,ZW,A,1606000,Number_of_Zimbabwe_cholera_deaths_nears_500
+505,Botswana,-24.28333,30.55,ZA,P,0,Number_of_Zimbabwe_cholera_deaths_nears_500
+506,United States,39.76,-98.5,US,A,327167434,Recent_American_E._coli_outbreak_linked_to_cattle
+507,Salinas,16.3695,121.0188,PH,P,2506,Recent_American_E._coli_outbreak_linked_to_cattle
+508,Canada,60.10867,-113.64258,CA,A,37058856,Recent_American_E._coli_outbreak_linked_to_cattle
+509,California,37.25022,-119.75126,US,A,39512223,Recent_American_E._coli_outbreak_linked_to_cattle
+510,Greece,39,22,GR,A,10727668,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+511,Athens,33.96095,-83.37794,US,P,116714,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+512,Hollywood,34.09834,-118.32674,US,P,167664,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+513,Canada,60.10867,-113.64258,CA,A,37058856,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+514,Toronto,43.70011,-79.4163,CA,P,2600000,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+515,al-Minya,31.62042,35.21848,PS,P,0,Avian_Flu_is_confirmed_in_Egypt
+516,Egypt,27,30,EG,A,98423595,Avian_Flu_is_confirmed_in_Egypt
+517,Giza,29.99776,31.05286,EG,A,3326444,Avian_Flu_is_confirmed_in_Egypt
+518,Cairo,30.05,31.65,EG,A,7734614,Avian_Flu_is_confirmed_in_Egypt
+519,Sudan,16,30,SD,A,41801533,Cholera_outbreak_hits_Angola
+520,Ethiopia,9,39.5,ET,A,109224559,Cholera_outbreak_hits_Angola
+521,Eritrea,15,39,ER,A,0,Cholera_outbreak_hits_Angola
+522,South Africa,-29,24,ZA,A,57779622,Cholera_outbreak_hits_Angola
+523,Luanda,-8.91667,13.33924,AO,A,6542942,Cholera_outbreak_hits_Angola
+524,Angola,-12.5,18.5,AO,A,30809762,Cholera_outbreak_hits_Angola
+525,Jiangsu,33,119.83333,CN,A,76770000,Second_H5N1_infection_reported_in_China
+526,China,35,105,CN,A,1392730000,Second_H5N1_infection_reported_in_China
+527,Australia,-25,135,AU,A,24992369,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+528,New South Wales,-33,146,AU,A,8046100,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+529,Queensland,-20,145,AU,A,5052800,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+530,Brunswick Heads,-28.54003,153.54573,AU,P,2032,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+531,Melbourne,-37.814,144.96332,AU,P,4246375,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+532,Victoria,-37,145,AU,A,6526400,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+533,Sydney,-33.86785,151.20732,AU,P,4627345,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+534,Suriname,4,-56,SR,A,575991,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+535,Dominican Republic,19,-70.66667,DO,A,10627165,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+536,French Guiana,4,-53,GF,A,195506,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+537,West,5.5,10.66667,CM,A,1339791,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+538,Américas,9.89896,-83.67407,CR,P,0,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+539,Houston,31.31773,-95.42268,US,A,23732,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+540,Haiti,19.80158,-71.31936,DO,A,0,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+541,Canada,60.10867,-113.64258,CA,A,37058856,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+542,Nicaragua,18.90587,-71.40058,DO,A,0,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+543,United Kingdom,54.75844,-2.69531,GB,A,66488991,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+544,United States,39.76,-98.5,US,A,327167434,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+545,Oak Brook,41.83281,-87.92895,US,P,8091,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+546,Illinois,40.00032,-89.25037,US,A,12772888,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+547,Ukraine,49,32,UA,A,44622516,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+548,Ås,59.66366,10.79101,NO,A,15863,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+549,Guangdong,23.5,113.25,CN,A,104303132,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+550,China,35,105,CN,A,1392730000,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+551,Dongguan,23.01797,113.74866,CN,P,9644871,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+552,United Kingdom,54.75844,-2.69531,GB,A,66488991,Sharp_increase_in_number_of_Zimbabwean_cholera_deaths
+553,South Africa,-29,24,ZA,A,57779622,Sharp_increase_in_number_of_Zimbabwean_cholera_deaths
+554,Zimbabwe,-20.26667,30.91667,ZW,P,0,Sharp_increase_in_number_of_Zimbabwean_cholera_deaths
+555,Beitbridge,-22.21667,30,ZW,P,26459,Sharp_increase_in_number_of_Zimbabwean_cholera_deaths
+556,Harare,-17.85417,31.05833,ZW,A,1606000,Sharp_increase_in_number_of_Zimbabwean_cholera_deaths
+557,Beni Suweif,28.9,30.6,EG,A,2771138,Egyptian_woman_becomes_third_to_die_of_bird_flu_in_a_week
+558,Egypt,27,30,EG,A,98423595,Egyptian_woman_becomes_third_to_die_of_bird_flu_in_a_week
+559,Washington,44.27342,-72.6149,US,A,59534,USDA_says_mad_cow_disease_found_in_cow_in_California
+560,United States,39.76,-98.5,US,A,327167434,USDA_says_mad_cow_disease_found_in_cow_in_California
+561,Iowa,42.00027,-93.50049,US,A,2955010,USDA_says_mad_cow_disease_found_in_cow_in_California
+562,Ames,42.03471,-93.61994,US,P,65060,USDA_says_mad_cow_disease_found_in_cow_in_California
+563,California,37.25022,-119.75126,US,A,39512223,USDA_says_mad_cow_disease_found_in_cow_in_California
+564,Canada,60.10867,-113.64258,CA,A,37058856,USDA_says_mad_cow_disease_found_in_cow_in_California
+565,Tennessee,35.75035,-86.25027,US,A,5935099,Indiana_Governor_signs_needle_exchange_program
+566,United States,39.76,-98.5,US,A,327167434,Indiana_Governor_signs_needle_exchange_program
+567,Scott,36.68604,-89.06505,US,P,0,Indiana_Governor_signs_needle_exchange_program
+568,Evansville,37.97476,-87.55585,US,P,119943,Indiana_Governor_signs_needle_exchange_program
+569,Nashville,36.16589,-86.78444,US,P,689447,Indiana_Governor_signs_needle_exchange_program
+570,Austin,30.26715,-97.74306,US,P,931830,Indiana_Governor_signs_needle_exchange_program
+571,Kentucky,38.20042,-84.87762,US,A,4206074,Indiana_Governor_signs_needle_exchange_program
+572,Louisville,38.25424,-85.75941,US,P,243639,Indiana_Governor_signs_needle_exchange_program
+573,Indiana,40.00032,-86.25027,US,A,6265933,Indiana_Governor_signs_needle_exchange_program
+574,Turkey,39,35,TR,A,82319724,First_Iraqi_case_of_Avian_Flu_reported
+575,Ranya,-9.66913,-76.67248,PE,P,29,First_Iraqi_case_of_Avian_Flu_reported
+576,United States,39.76,-98.5,US,A,327167434,First_Iraqi_case_of_Avian_Flu_reported
+577,Iraq,33,44,IQ,A,38433600,First_Iraqi_case_of_Avian_Flu_reported
+578,Ukraine,49,32,UA,A,44622516,First_Iraqi_case_of_Avian_Flu_reported
+579,Cairo,30.87751,-84.20214,US,P,9752,First_Iraqi_case_of_Avian_Flu_reported
+580,New York,40.77427,-73.96981,US,A,1585873,"White_powder_found_at_Buffalo,_N.Y._courthouse"
+581,Buffalo,42.88645,-78.87837,US,P,258071,"White_powder_found_at_Buffalo,_N.Y._courthouse"
+582,Vietnam,16.16667,107.83333,VN,A,95540395,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+583,China,35,105,CN,A,1392730000,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+584,Russia,60,100,RU,A,144478050,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+585,Hong Kong,22.95805,-109.93898,MX,P,5,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+586,Beijing,39.9075,116.39723,CN,P,18960744,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+587,China,35,105,CN,A,1392730000,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+588,Vietnam,16.16667,107.83333,VN,A,95540395,Auckland_Zoo_otter_Jin_has_been_found_alive
+589,China,35,105,CN,A,1392730000,Auckland_Zoo_otter_Jin_has_been_found_alive
+590,Russia,60,100,RU,A,144478050,Auckland_Zoo_otter_Jin_has_been_found_alive
+591,Hong Kong,22.95805,-109.93898,MX,P,5,Auckland_Zoo_otter_Jin_has_been_found_alive
+592,Beijing,39.9075,116.39723,CN,P,18960744,Auckland_Zoo_otter_Jin_has_been_found_alive
+593,China,35,105,CN,A,1392730000,Auckland_Zoo_otter_Jin_has_been_found_alive
+594,Auckland,-36.85,174.78333,NZ,A,444100,Auckland_Zoo_otter_Jin_has_been_found_alive
+595,Lubbock,33.57786,-101.85517,US,P,249042,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+596,North Dallas,32.90508,-96.78543,US,P,0,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+597,United States,39.76,-98.5,US,A,327167434,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+598,New Jersey,40.16706,-74.49987,US,A,8751436,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+599,Texas,36.74791,-101.49001,US,A,20640,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+600,Ås,59.66366,10.79101,NO,A,15863,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+601,Nile,38.30455,-80.7351,US,P,0,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+602,Dallas,33.92371,-84.84077,US,P,12870,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+603,Malakoff,32.1696,-96.01247,US,P,2296,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+604,Dallas,32.76663,-96.77787,US,A,2368139,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+605,Houston,29.76328,-95.36327,US,P,2296224,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+606,Austin,30.26715,-97.74306,US,P,931830,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+607,California,37.25022,-119.75126,US,A,39512223,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+608,Abilene,32.44874,-99.73314,US,P,121721,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+609,Michigan,44.25029,-85.50033,US,A,9883360,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+610,Iowa,42.00027,-93.50049,US,A,2955010,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+611,Lake Erie Country Club,42.02778,-83.02944,CA,P,0,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+612,Monroe,37.56037,-80.55055,US,A,13502,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+613,Ames,42.03471,-93.61994,US,P,65060,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+614,Ukraine,49,32,UA,A,44622516,London_court_jails_man_after_Dark_Web_ricin_sting
+615,London,51.50853,-0.12574,GB,P,8961989,London_court_jails_man_after_Dark_Web_ricin_sting
+616,Liverpool,53.41058,-2.97794,GB,P,864122,London_court_jails_man_after_Dark_Web_ricin_sting
+617,North Carolina,35.50069,-80.00032,US,A,10488084,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+618,Brazil,-10,-55,BR,A,209469333,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+619,United States,39.76,-98.5,US,A,327167434,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+620,Norway,62,10,NO,A,5314336,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+621,Mexico,23,-102,MX,A,126190788,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+622,Ukraine,49,32,UA,A,44622516,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+623,Japan,35.68536,139.75309,JP,A,126529100,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+624,Ås,59.66366,10.79101,NO,A,15863,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+625,China,25.51224,-99.00457,MX,A,0,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+626,Dadaab,0.05287,40.31055,KE,P,0,"750,000_could_be_affected_by_flooding_in_Kenya,_UN_says"
+627,British Indian Ocean Territory,-6,72,IO,A,4000,"750,000_could_be_affected_by_flooding_in_Kenya,_UN_says"
+628,Kenya,1,38,KE,A,51393010,"750,000_could_be_affected_by_flooding_in_Kenya,_UN_says"
+629,Cambodia,13,105,KH,A,16249798,World_Bank_warns_of_high_bird_flu_cost
+630,Laos,18,105,LA,A,7061507,World_Bank_warns_of_high_bird_flu_cost
+631,Vietnam,16.16667,107.83333,VN,A,95540395,World_Bank_warns_of_high_bird_flu_cost
+632,Thailand,15.5,101,TH,A,69428524,World_Bank_warns_of_high_bird_flu_cost
+633,Burma,48.93694,72.83517,KZ,P,0,World_Bank_warns_of_high_bird_flu_cost
+634,Charlottetown,48.4332,-54.01481,CA,P,0,Avian_flu_found_in_eastern_Canada
+635,Prince Edward Island,46.4864,-63.3136,CA,P,0,Avian_flu_found_in_eastern_Canada
+636,Prince,37.859,-81.05371,US,P,116,Avian_flu_found_in_eastern_Canada
+637,O'Leary,46.71685,-64.23204,CA,P,0,Avian_flu_found_in_eastern_Canada
+638,Canada,60.10867,-113.64258,CA,A,37058856,Avian_flu_found_in_eastern_Canada
+639,Australia,-25,135,AU,A,24992369,Sizzler_salad_bars_shut_after_rat_poison_found_in_food
+640,Toowong,-27.48333,152.98333,AU,P,10780,Sizzler_salad_bars_shut_after_rat_poison_found_in_food
+641,Brisbane,-27.46794,153.02809,AU,P,2189878,Sizzler_salad_bars_shut_after_rat_poison_found_in_food
+642,United States,39.76,-98.5,US,A,327167434,Whooping_cough_outbreak_kills_ten_infants_in_California
+643,California,37.25022,-119.75126,US,A,39512223,Whooping_cough_outbreak_kills_ten_infants_in_California
+644,Gaza Strip,31.41667,34.33333,PS,A,487904,Gaza_Strip_reports_first_swine_flu_cases
+645,Egypt,-29.16765,26.95681,ZA,P,0,Gaza_Strip_reports_first_swine_flu_cases
+646,West Bank,31.66667,35.25,PS,A,2771681,Gaza_Strip_reports_first_swine_flu_cases
+647,Gaza,31.51065,34.46411,PS,A,505700,Gaza_Strip_reports_first_swine_flu_cases
+648,Israel,31.5,34.75,IL,A,8883800,Gaza_Strip_reports_first_swine_flu_cases
+649,Jakarta,-6.21462,106.84513,ID,P,8540121,Bird_flu_spreading_through_Indonesia_and_China
+650,Indonesia,-5,120,ID,A,267663435,Bird_flu_spreading_through_Indonesia_and_China
+651,Fujian,26.25,118,CN,A,36890000,Bird_flu_spreading_through_Indonesia_and_China
+652,China,35,105,CN,A,1392730000,Bird_flu_spreading_through_Indonesia_and_China
+653,Ukraine,49,32,UA,A,44622516,Swine_flu_claims_first_UK_victim
+654,Paisley,55.83173,-4.43254,GB,P,76220,Swine_flu_claims_first_UK_victim
+655,Glasgow,55.86515,-4.25763,GB,P,591620,Swine_flu_claims_first_UK_victim
+656,Scotland,56,-4,GB,A,5404700,Swine_flu_claims_first_UK_victim
+657,Germany,51.5,10.5,DE,A,82927922,Bluetongue_disease_appears_in_UK_for_the_first_time
+658,France,46,2,FR,A,66987244,Bluetongue_disease_appears_in_UK_for_the_first_time
+659,South Africa,-29,24,ZA,A,57779622,Bluetongue_disease_appears_in_UK_for_the_first_time
+660,Ukraine,49,32,UA,A,44622516,Bluetongue_disease_appears_in_UK_for_the_first_time
+661,Suffolk,40.94046,-72.68524,US,A,1493350,Bluetongue_disease_appears_in_UK_for_the_first_time
+662,Ipswich,52.05917,1.15545,GB,P,178835,Bluetongue_disease_appears_in_UK_for_the_first_time
+663,Australia,-25,135,AU,A,24992369,"Britain_unveils_flu_pandemic_preparedness_plan,_buys_14m_courses_of_treatment_drug"
+664,United Kingdom,54.75844,-2.69531,GB,A,66488991,"Britain_unveils_flu_pandemic_preparedness_plan,_buys_14m_courses_of_treatment_drug"
+665,Ukraine,49,32,UA,A,44622516,"Britain_unveils_flu_pandemic_preparedness_plan,_buys_14m_courses_of_treatment_drug"
+666,Ås,59.66366,10.79101,NO,A,15863,"Britain_unveils_flu_pandemic_preparedness_plan,_buys_14m_courses_of_treatment_drug"
+667,Canada,60.10867,-113.64258,CA,A,37058856,"Britain_unveils_flu_pandemic_preparedness_plan,_buys_14m_courses_of_treatment_drug"
+668,Houston,31.31773,-95.42268,US,A,23732,"Over_250_dead_in_Haiti_cholera_outbreak,_thousands_infected"
+669,Port-au-Prince,18.52557,-72.33697,HT,A,0,"Over_250_dead_in_Haiti_cholera_outbreak,_thousands_infected"
+670,Saint-Marc,19.10819,-72.69379,HT,P,66226,"Over_250_dead_in_Haiti_cholera_outbreak,_thousands_infected"
+671,Tennessee,35.75035,-86.25027,US,A,5935099,FDA_warning_on_pistachios_after_salmonella_contamination
+672,Ohio,38.9501,-84.96503,US,A,6128,FDA_warning_on_pistachios_after_salmonella_contamination
+673,North Carolina,35.50069,-80.00032,US,A,10488084,FDA_warning_on_pistachios_after_salmonella_contamination
+674,Kansas,38.50029,-98.50063,US,A,2740759,FDA_warning_on_pistachios_after_salmonella_contamination
+675,Missouri,38.25031,-92.50046,US,A,5768151,FDA_warning_on_pistachios_after_salmonella_contamination
+676,Louisiana,31.00047,-92.0004,US,A,4515939,FDA_warning_on_pistachios_after_salmonella_contamination
+677,South Carolina,34.00043,-81.00009,US,A,4229842,FDA_warning_on_pistachios_after_salmonella_contamination
+678,Idaho,44.5002,-114.25118,US,A,1416564,FDA_warning_on_pistachios_after_salmonella_contamination
+679,Texas,36.74791,-101.49001,US,A,20640,FDA_warning_on_pistachios_after_salmonella_contamination
+680,Illinois,40.00032,-89.25037,US,A,12772888,FDA_warning_on_pistachios_after_salmonella_contamination
+681,Arkansas,34.75037,-92.50044,US,A,2757631,FDA_warning_on_pistachios_after_salmonella_contamination
+682,West Virginia,38.50038,-80.50009,US,A,1817871,FDA_warning_on_pistachios_after_salmonella_contamination
+683,Michigan,44.25029,-85.50033,US,A,9883360,FDA_warning_on_pistachios_after_salmonella_contamination
+684,New Mexico,34.50034,-106.00085,US,A,1912684,FDA_warning_on_pistachios_after_salmonella_contamination
+685,Alabama,32.75041,-86.75026,US,A,4530315,FDA_warning_on_pistachios_after_salmonella_contamination
+686,Nebraska,41.50028,-99.75067,US,A,1757399,FDA_warning_on_pistachios_after_salmonella_contamination
+687,Washington,44.27342,-72.6149,US,A,59534,FDA_warning_on_pistachios_after_salmonella_contamination
+688,Mississippi,35.7639,-90.05417,US,A,46480,FDA_warning_on_pistachios_after_salmonella_contamination
+689,United States,39.76,-98.5,US,A,327167434,FDA_warning_on_pistachios_after_salmonella_contamination
+690,Montana,47.00025,-109.75102,US,A,930698,FDA_warning_on_pistachios_after_salmonella_contamination
+691,California,37.25022,-119.75126,US,A,39512223,FDA_warning_on_pistachios_after_salmonella_contamination
+692,Arizona,34.5003,-111.50098,US,A,5863809,FDA_warning_on_pistachios_after_salmonella_contamination
+693,Kentucky,38.20042,-84.87762,US,A,4206074,FDA_warning_on_pistachios_after_salmonella_contamination
+694,Virginia,37.54812,-77.44675,US,A,7642884,FDA_warning_on_pistachios_after_salmonella_contamination
+695,Colorado,39.00027,-105.50083,US,A,4678630,FDA_warning_on_pistachios_after_salmonella_contamination
+696,Nevada,39.25021,-116.75119,US,A,2399532,FDA_warning_on_pistachios_after_salmonella_contamination
+697,Indiana,40.00032,-86.25027,US,A,6265933,FDA_warning_on_pistachios_after_salmonella_contamination
+698,Utah,39.25024,-111.75103,US,A,2427340,FDA_warning_on_pistachios_after_salmonella_contamination
+699,Georgia,32.75042,-83.50018,US,A,8975842,FDA_warning_on_pistachios_after_salmonella_contamination
+700,Oregon,44.00013,-120.50139,US,A,3642919,FDA_warning_on_pistachios_after_salmonella_contamination
+701,Alaska,64.00028,-150.00028,US,A,660633,FDA_warning_on_pistachios_after_salmonella_contamination
+702,Wyoming,43.00024,-107.5009,US,A,505907,FDA_warning_on_pistachios_after_salmonella_contamination
+703,Tennessee,35.75035,-86.25027,US,A,5935099,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+704,Ohio,38.9501,-84.96503,US,A,6128,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+705,North Carolina,35.50069,-80.00032,US,A,10488084,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+706,Kansas,38.50029,-98.50063,US,A,2740759,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+707,Missouri,38.25031,-92.50046,US,A,5768151,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+708,Louisiana,31.00047,-92.0004,US,A,4515939,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+709,South Carolina,34.00043,-81.00009,US,A,4229842,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+710,Idaho,44.5002,-114.25118,US,A,1416564,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+711,Texas,36.74791,-101.49001,US,A,20640,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+712,Illinois,40.00032,-89.25037,US,A,12772888,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+713,Arkansas,34.75037,-92.50044,US,A,2757631,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+714,West Virginia,38.50038,-80.50009,US,A,1817871,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+715,Michigan,44.25029,-85.50033,US,A,9883360,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+716,New Mexico,34.50034,-106.00085,US,A,1912684,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+717,Alabama,32.75041,-86.75026,US,A,4530315,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+718,Nebraska,41.50028,-99.75067,US,A,1757399,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+719,Washington,44.27342,-72.6149,US,A,59534,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+720,Mississippi,35.7639,-90.05417,US,A,46480,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+721,United States,39.76,-98.5,US,A,327167434,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+722,Montana,47.00025,-109.75102,US,A,930698,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+723,California,37.25022,-119.75126,US,A,39512223,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+724,Arizona,34.5003,-111.50098,US,A,5863809,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+725,Kentucky,38.20042,-84.87762,US,A,4206074,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+726,Virginia,37.54812,-77.44675,US,A,7642884,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+727,Colorado,39.00027,-105.50083,US,A,4678630,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+728,Nevada,39.25021,-116.75119,US,A,2399532,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+729,Indiana,40.00032,-86.25027,US,A,6265933,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+730,Utah,39.25024,-111.75103,US,A,2427340,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+731,Georgia,32.75042,-83.50018,US,A,8975842,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+732,Oregon,44.00013,-120.50139,US,A,3642919,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+733,Alaska,64.00028,-150.00028,US,A,660633,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+734,Wyoming,43.00024,-107.5009,US,A,505907,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+735,London,39.88645,-83.44825,US,P,10060,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+736,Luanda,-8.91667,13.33924,AO,A,6542942,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+737,Munich,48.66917,-98.83263,US,P,202,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+738,Angola,41.63477,-84.99941,US,P,8644,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+739,Indonesia,-5,120,ID,A,267663435,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+740,South Africa,-29,24,ZA,A,57779622,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+741,Central Java,-7.5,110,ID,A,34087148,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+742,Rome,41.96667,12.66667,IT,A,4342212,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+743,Italy,42.83333,12.83333,IT,A,60431283,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+744,China,35,105,CN,A,1392730000,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+745,France,46,2,FR,A,66987244,New_human_HIV_strain_discovered_in_France
+746,Cameroon,6,12.5,CM,A,25216237,New_human_HIV_strain_discovered_in_France
+747,South Africa,-29,24,ZA,A,57779622,New_human_HIV_strain_discovered_in_France
+748,Paris,48.85339,2.34864,FR,A,4380654,New_human_HIV_strain_discovered_in_France
+749,Iowa,42.00027,-93.50049,US,A,2955010,US_food_regulators_recall_380_million_eggs_after_salmonella_outbreak
+750,Minnesota,46.25024,-94.25055,US,A,5141953,US_food_regulators_recall_380_million_eggs_after_salmonella_outbreak
+751,California,37.25022,-119.75126,US,A,39512223,US_food_regulators_recall_380_million_eggs_after_salmonella_outbreak
+752,Colorado,39.00027,-105.50083,US,A,4678630,US_food_regulators_recall_380_million_eggs_after_salmonella_outbreak
+753,Central African Republic,7,21,CF,A,4666377,Polio_vaccination_campaign_targets_85_million_African_children
+754,Guinea-Bissau,12,-15,GW,A,1874309,Polio_vaccination_campaign_targets_85_million_African_children
+755,Nigeria,10,8,NG,A,195874740,Polio_vaccination_campaign_targets_85_million_African_children
+756,Niger,18,9,NE,A,22442948,Polio_vaccination_campaign_targets_85_million_African_children
+757,Cameroon,6,12.5,CM,A,25216237,Polio_vaccination_campaign_targets_85_million_African_children
+758,Burkina Faso,12.5,-1.66667,BF,A,19751535,Polio_vaccination_campaign_targets_85_million_African_children
+759,Guinea,10.83333,-10.66667,GN,A,12414318,Polio_vaccination_campaign_targets_85_million_African_children
+760,Mauritania,20.25,-10.5,MR,A,4403319,Polio_vaccination_campaign_targets_85_million_African_children
+761,Cruz do Pé do Verde,16.88333,-24.95,CV,P,0,Polio_vaccination_campaign_targets_85_million_African_children
+762,Togo,13.5207,-4.5183,ML,P,0,Polio_vaccination_campaign_targets_85_million_African_children
+763,Sierra Leone,8.5,-11.5,SL,A,7650154,Polio_vaccination_campaign_targets_85_million_African_children
+764,Chad,28.29612,66.12478,PK,P,0,Polio_vaccination_campaign_targets_85_million_African_children
+765,Benin,5.60744,-0.99696,GH,P,0,Polio_vaccination_campaign_targets_85_million_African_children
+766,Liberia,6.5,-9.5,LR,A,4818977,Polio_vaccination_campaign_targets_85_million_African_children
+767,Mali,18,-2,ML,A,19077690,Polio_vaccination_campaign_targets_85_million_African_children
+768,Senegal,7.96664,-12.50189,SL,P,0,Polio_vaccination_campaign_targets_85_million_African_children
+769,Gambia,7.39274,-11.84293,SL,P,0,Polio_vaccination_campaign_targets_85_million_African_children
+770,Ghana,8.1,-1.2,GH,A,29767108,Polio_vaccination_campaign_targets_85_million_African_children
+771,Tanzania,-6,35,TZ,A,56318348,African_leaders_start_drive_to_eradicate_malaria
+772,Dar Es Salaam,7.23454,-11.2601,SL,P,0,African_leaders_start_drive_to_eradicate_malaria
+773,South Africa,-29,24,ZA,A,57779622,African_leaders_start_drive_to_eradicate_malaria
+774,Houston,31.31773,-95.42268,US,A,23732,African_leaders_start_drive_to_eradicate_malaria
+775,Zanzibar,-6.16394,39.19793,TZ,P,403658,African_leaders_start_drive_to_eradicate_malaria
+776,Zambia,-14.33333,28.5,ZM,A,17351822,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+777,Kasai,-0.77401,100.28874,ID,P,0,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+778,Ås,59.66366,10.79101,NO,A,15863,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+779,Kasaï-Occidental,-5.33333,21.58333,CD,A,4545940,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+780,Kampungu,-0.5,31.56667,UG,P,0,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+781,Rwanda,-0.78884,30.10159,UG,A,0,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+782,Kananga,-5.89624,22.41659,CD,P,463546,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+783,Mukuru kwa njenga,-1.30013,36.89872,KE,P,0,At_least_nine_dead_after_cholera_outbreak_in_Kenyan_slum
+784,Nairobi,-1.28333,36.83333,KE,A,3138369,At_least_nine_dead_after_cholera_outbreak_in_Kenyan_slum
+785,Mukuru,-0.27235,36.51161,KE,P,0,At_least_nine_dead_after_cholera_outbreak_in_Kenyan_slum
+786,Kenya,1,38,KE,A,51393010,At_least_nine_dead_after_cholera_outbreak_in_Kenyan_slum
+787,Australia,-25,135,AU,A,24992369,Study_estimates_first_human_HIV_infection_100_years_ago
+788,Cameroon,6,12.5,CM,A,25216237,Study_estimates_first_human_HIV_infection_100_years_ago
+789,Belgium,50.75,4.5,BE,A,11422068,Study_estimates_first_human_HIV_infection_100_years_ago
+790,United States,39.76,-98.5,US,A,327167434,Study_estimates_first_human_HIV_infection_100_years_ago
+791,France,46,2,FR,A,66987244,Study_estimates_first_human_HIV_infection_100_years_ago
+792,Kinshasa,-4.32758,15.31357,CD,P,7785965,Study_estimates_first_human_HIV_infection_100_years_ago
+793,South Africa,-29,24,ZA,A,57779622,Study_estimates_first_human_HIV_infection_100_years_ago
+794,Denmark,-34.93473,117.37518,AU,A,5748,Study_estimates_first_human_HIV_infection_100_years_ago
+795,Arizona,34.5003,-111.50098,US,A,5863809,Study_estimates_first_human_HIV_infection_100_years_ago
+796,Tucson,32.22174,-110.92648,US,P,531641,Study_estimates_first_human_HIV_infection_100_years_ago
+797,Germany,51.5,10.5,DE,A,82927922,Swan_in_German_zoo_tests_positive_for_H5N1_virus
+798,Dresden,51.16667,14.08333,DE,A,1631486,Swan_in_German_zoo_tests_positive_for_H5N1_virus
+799,East Java,-7.7394,112.5099,ID,A,22200177,Bird_Flu_kills_40th_Indonesian
+800,Indonesia,-5,120,ID,A,267663435,Bird_Flu_kills_40th_Indonesian
+801,Tulungagung,-3.3884,119.2216,ID,P,0,Bird_Flu_kills_40th_Indonesian
+802,Hong Kong,22.27832,114.17469,HK,P,7482500,Bird_Flu_kills_40th_Indonesian
+803,Texas,36.74791,-101.49001,US,A,20640,"Healthcare_workers,_public_officials_struggle_to_address_influenza_outbreak_across_much_of_U.S."
+804,New York,40.77427,-73.96981,US,A,1585873,"Healthcare_workers,_public_officials_struggle_to_address_influenza_outbreak_across_much_of_U.S."
+805,United States,39.76,-98.5,US,A,327167434,"Healthcare_workers,_public_officials_struggle_to_address_influenza_outbreak_across_much_of_U.S."
+806,Boston,42.35843,-71.05977,US,P,675647,"Healthcare_workers,_public_officials_struggle_to_address_influenza_outbreak_across_much_of_U.S."
+807,England,52.16045,-0.70312,GB,A,56286961,Wild_Canadian_Goose_tests_positive_for_H5N1_in_England
+808,United Kingdom,54.75844,-2.69531,GB,A,66488991,Wild_Canadian_Goose_tests_positive_for_H5N1_in_England
+809,Dorset,50.75,-2.33333,GB,A,422727,Wild_Canadian_Goose_tests_positive_for_H5N1_in_England
+810,England,52.16045,-0.70312,GB,A,56286961,Man_attempts_to_foil_breathalyzer_by_eating_feces
+811,United Kingdom,54.75844,-2.69531,GB,A,66488991,Man_attempts_to_foil_breathalyzer_by_eating_feces
+812,Dorset,50.75,-2.33333,GB,A,422727,Man_attempts_to_foil_breathalyzer_by_eating_feces
+813,Ontario,49.25014,-84.49983,CA,A,12861940,Man_attempts_to_foil_breathalyzer_by_eating_feces
+814,Stroud,44.32647,-79.61928,CA,P,0,Man_attempts_to_foil_breathalyzer_by_eating_feces
+815,Canada,60.10867,-113.64258,CA,A,37058856,Man_attempts_to_foil_breathalyzer_by_eating_feces
+816,Bradford,44.11681,-79.56632,CA,P,0,Man_attempts_to_foil_breathalyzer_by_eating_feces
+817,Britain,39.25288,-77.69694,US,P,0,Britain%27s_deadly_bug_possibly_imported_from_U.S._or_Canada
+818,United States,39.76,-98.5,US,A,327167434,Britain%27s_deadly_bug_possibly_imported_from_U.S._or_Canada
+819,Canada,60.10867,-113.64258,CA,A,37058856,Britain%27s_deadly_bug_possibly_imported_from_U.S._or_Canada
+820,Germany,51.5,10.5,DE,A,82927922,Exploding_toads_confuse_scientists
+821,Låsby,56.15022,9.80683,DK,P,2001,Exploding_toads_confuse_scientists
+822,Jutland,40.62288,-74.96434,US,P,0,Exploding_toads_confuse_scientists
+823,Midlothian,55.82347,-3.09334,GB,A,88610,Exploding_toads_confuse_scientists
+824,Denmark,56,10,DK,A,5797446,Exploding_toads_confuse_scientists
+825,Hamburg,53.55,10,DE,A,1847253,Exploding_toads_confuse_scientists
+826,Roanoke,47.59454,-122.2429,US,P,0,"Post-probe,_problematic_peanut_paste_products_pulled"
+827,Blakely,34.69676,-93.06935,US,P,0,"Post-probe,_problematic_peanut_paste_products_pulled"
+828,United States,39.76,-98.5,US,A,327167434,"Post-probe,_problematic_peanut_paste_products_pulled"
+829,Xã Ia Rvê,13.21834,107.64127,VN,A,0,"Post-probe,_problematic_peanut_paste_products_pulled"
+830,Ås,59.66366,10.79101,NO,A,15863,"Post-probe,_problematic_peanut_paste_products_pulled"
+831,Town of Prospect,41.49928,-72.97612,US,A,9739,"Post-probe,_problematic_peanut_paste_products_pulled"
+832,Ås,59.66366,10.79101,NO,A,15863,"Post-probe,_problematic_peanut_paste_products_pulled"
+833,Soca,-34.67748,-55.58471,UY,A,0,"Post-probe,_problematic_peanut_paste_products_pulled"
+834,Virginia,37.54812,-77.44675,US,A,7642884,"Post-probe,_problematic_peanut_paste_products_pulled"
+835,Georgia,32.75042,-83.50018,US,A,8975842,"Post-probe,_problematic_peanut_paste_products_pulled"
+836,Australia,-25,135,AU,A,24992369,Horse_flu_spreads_in_Australia
+837,New South Wales,-33,146,AU,A,8046100,Horse_flu_spreads_in_Australia
+838,Moonbi,-31.01775,151.07062,AU,P,1099,Horse_flu_spreads_in_Australia
+839,Parkes,-35.30177,149.13041,AU,P,4,Horse_flu_spreads_in_Australia
+840,Queensland,-20,145,AU,A,5052800,Horse_flu_spreads_in_Australia
+841,Wyong,-33.28254,151.42327,AU,P,4309,Horse_flu_spreads_in_Australia
+842,Brunswick Heads,-28.54003,153.54573,AU,P,2032,Horse_flu_spreads_in_Australia
+843,Berry,-34.77507,150.69436,AU,P,2648,Horse_flu_spreads_in_Australia
+844,Victoria,-37,145,AU,A,6526400,Horse_flu_spreads_in_Australia
+845,Cattai,-33.54569,150.91432,AU,P,822,Horse_flu_spreads_in_Australia
+846,Sydney,-33.86785,151.20732,AU,P,4627345,Horse_flu_spreads_in_Australia
+847,Maitland,-32.73308,151.5574,AU,P,67132,Horse_flu_spreads_in_Australia
+848,Brisbane,-27.46794,153.02809,AU,P,2189878,Horse_flu_spreads_in_Australia
+849,Warwick,-28.21901,152.03438,AU,P,12208,Horse_flu_spreads_in_Australia
+850,Nigeria,10,8,NG,A,195874740,UN_says_polio_eradicated_in_Egypt_and_Niger
+851,Niger,18,9,NE,A,22442948,UN_says_polio_eradicated_in_Egypt_and_Niger
+852,United States,39.76,-98.5,US,A,327167434,UN_says_polio_eradicated_in_Egypt_and_Niger
+853,Egypt,40.6801,-75.52991,US,P,2391,UN_says_polio_eradicated_in_Egypt_and_Niger
+854,Seychelles,-4.58333,55.66667,SC,A,96762,"186,000_cases_of_chikungunya_in_R%C3%A9union"
+855,British Indian Ocean Territory,-6,72,IO,A,4000,"186,000_cases_of_chikungunya_in_R%C3%A9union"
+856,Réunion,-21.10044,55.60206,RE,A,794107,"186,000_cases_of_chikungunya_in_R%C3%A9union"
+857,Mayotte,-12.83333,45.16667,YT,A,279471,"186,000_cases_of_chikungunya_in_R%C3%A9union"
+858,West Virginia,38.50038,-80.50009,US,A,1817871,Child_abuse_case_in_West_Virginia_ends_in_jail_time
+859,United States,39.76,-98.5,US,A,327167434,Child_abuse_case_in_West_Virginia_ends_in_jail_time
+860,Philippi,39.15232,-80.04036,US,P,3256,Child_abuse_case_in_West_Virginia_ends_in_jail_time
+861,England,52.16045,-0.70312,GB,A,56286961,Chickens_at_a_Norfolk_farm_to_be_culled_after_testing_positive_for_bird_flu
+862,Netherlands,52.25,5.75,NL,A,17231017,Chickens_at_a_Norfolk_farm_to_be_culled_after_testing_positive_for_bird_flu
+863,Ukraine,49,32,UA,A,44622516,Chickens_at_a_Norfolk_farm_to_be_culled_after_testing_positive_for_bird_flu
+864,Norfolk,52.66667,1,GB,A,892870,Chickens_at_a_Norfolk_farm_to_be_culled_after_testing_positive_for_bird_flu
+865,Fife,56.25,-3.16667,GB,A,370330,Chickens_at_a_Norfolk_farm_to_be_culled_after_testing_positive_for_bird_flu
+866,Australia,-25,135,AU,A,24992369,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+867,Queensland,-20,145,AU,A,5052800,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+868,Cairns,-16.90268,145.75287,AU,A,168618,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+869,Townsville,-19.26639,146.80569,AU,P,196219,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+870,Brisbane,-27.46794,153.02809,AU,P,2189878,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+871,Innisfail,-17.52209,146.03102,AU,P,1241,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+872,Ciocile,44.81667,27.23333,RO,P,3101,New_bird_flu_outbreaks_reported_in_Europe
+873,Maliuc,45.17678,29.11334,RO,P,238,New_bird_flu_outbreaks_reported_in_Europe
+874,Dudescu,44.9507,27.43257,RO,P,912,New_bird_flu_outbreaks_reported_in_Europe
+875,Romania,46,25,RO,A,19473936,New_bird_flu_outbreaks_reported_in_Europe
+876,Caraorman,45.07891,29.39321,RO,P,494,New_bird_flu_outbreaks_reported_in_Europe
+877,Ceamurlia de Jos,44.73333,28.71667,RO,P,2596,New_bird_flu_outbreaks_reported_in_Europe
+878,Brăila,45.08333,27.66667,RO,A,367830,New_bird_flu_outbreaks_reported_in_Europe
+879,Russia,60,100,RU,A,144478050,New_bird_flu_outbreaks_reported_in_Europe
+880,Crimea,45,34,UA,A,1907106,New_bird_flu_outbreaks_reported_in_Europe
+881,Manaoag,17.17233,121.76469,PH,P,0,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+882,Palauig,15.435,119.9045,PH,P,2944,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+883,Sudan,16,30,SD,A,41801533,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+884,Bulacan,6.56306,125.41,PH,P,0,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+885,Province of Nueva Ecija,15.58333,121,PH,A,1853853,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+886,Cabanatuan City,15.49127,120.99166,PH,A,302231,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+887,Pangasinan,10.58336,122.5178,PH,P,0,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+888,Pennsylvania,40.8,-77.7,US,A,12440621,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+889,Wisconsin,44.50024,-90.00041,US,A,5535168,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+890,Washington,44.27342,-72.6149,US,A,59534,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+891,Ohio,38.9501,-84.96503,US,A,6128,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+892,Idaho,44.5002,-114.25118,US,A,1416564,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+893,Michigan,44.25029,-85.50033,US,A,9883360,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+894,New Mexico,34.50034,-106.00085,US,A,1912684,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+895,Connecticut,41.66704,-72.66648,US,A,3527249,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+896,New York,40.77427,-73.96981,US,A,1585873,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+897,Ås,59.66366,10.79101,NO,A,15863,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+898,Utah,39.25024,-111.75103,US,A,2427340,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+899,Oregon,44.00013,-120.50139,US,A,3642919,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+900,California,37.25022,-119.75126,US,A,39512223,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+901,Kentucky,38.20042,-84.87762,US,A,4206074,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+902,San Juan Bautista,36.84551,-121.538,US,P,1961,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+903,Indiana,40.00032,-86.25027,US,A,6265933,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+904,Ohio,38.9501,-84.96503,US,A,6128,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+905,United States,39.76,-98.5,US,A,327167434,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+906,New Jersey,40.16706,-74.49987,US,A,8751436,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+907,New York,40.77427,-73.96981,US,A,1585873,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+908,Marion,39.78171,-86.13847,US,A,903393,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+909,Brooklyn,40.6501,-73.94958,US,P,2300664,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+910,Canada,60.10867,-113.64258,CA,A,37058856,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+911,Chile,-30,-71,CL,A,18729160,Swine_flu_deaths_reported_in_Argentina
+912,Ica,-14.3325,-75.49972,PE,A,709556,Swine_flu_deaths_reported_in_Argentina
+913,Argentina,-34,-64,AR,A,44494502,Swine_flu_deaths_reported_in_Argentina
+914,Buenos Aires,-36,-60,AR,A,15625084,Swine_flu_deaths_reported_in_Argentina
+915,Pennsylvania,40.8,-77.7,US,A,12440621,Alarm_sounded_over_US_honey_bee_die-off
+916,Wisconsin,44.50024,-90.00041,US,A,5535168,Alarm_sounded_over_US_honey_bee_die-off
+917,United States,39.76,-98.5,US,A,327167434,Alarm_sounded_over_US_honey_bee_die-off
+918,Oklahoma,35.49209,-97.50328,US,A,3547049,Alarm_sounded_over_US_honey_bee_die-off
+919,Ås,59.66366,10.79101,NO,A,15863,Alarm_sounded_over_US_honey_bee_die-off
+920,Georgia,32.75042,-83.50018,US,A,8975842,Alarm_sounded_over_US_honey_bee_die-off
+921,California,37.25022,-119.75126,US,A,39512223,Alarm_sounded_over_US_honey_bee_die-off
+922,Canada,60.10867,-113.64258,CA,A,37058856,Alarm_sounded_over_US_honey_bee_die-off
+923,Mission Viejo,39.64639,-104.8,US,P,0,Eight_Californians_seriously_ill_after_eating_live_shellfish
+924,California,37.25022,-119.75126,US,A,39512223,Eight_Californians_seriously_ill_after_eating_live_shellfish
+925,Fullerton,33.87029,-117.92534,US,P,140847,Eight_Californians_seriously_ill_after_eating_live_shellfish
+926,Netherlands,52.25,5.75,NL,A,17231017,Dutch_sheep_contaminated_by_bluetongue
+927,Limburg,51.25,6,NL,A,1091697,Dutch_sheep_contaminated_by_bluetongue
+928,Kansas,38.50029,-98.50063,US,A,2740759,Bacterial_meningitis_possibly_spread_on_AirTran_flight
+929,Wichita,38.48208,-101.34736,US,A,2234,Bacterial_meningitis_possibly_spread_on_AirTran_flight
+930,Atlanta,33.749,-84.38798,US,P,463878,Bacterial_meningitis_possibly_spread_on_AirTran_flight
+931,Georgia,32.75042,-83.50018,US,A,8975842,Bacterial_meningitis_possibly_spread_on_AirTran_flight
+932,Netherlands,52.25,5.75,NL,A,17231017,H5N1_bird_flu_confirmed_in_the_Netherlands
+933,Lelystad,52.50833,5.475,NL,P,70741,H5N1_bird_flu_confirmed_in_the_Netherlands
+934,Rotterdam,51.88246,4.28784,NL,A,638712,H5N1_bird_flu_confirmed_in_the_Netherlands
+935,Netherlands,52.25,5.75,NL,A,17231017,Swine_flu_cases_in_Fiji_reach_97
+936,Lelystad,52.50833,5.475,NL,P,70741,Swine_flu_cases_in_Fiji_reach_97
+937,Rotterdam,51.88246,4.28784,NL,A,638712,Swine_flu_cases_in_Fiji_reach_97
+938,Nadi,-17.80309,177.41617,FJ,P,42284,Swine_flu_cases_in_Fiji_reach_97
+939,Fiji,-18,178,FJ,A,883483,Swine_flu_cases_in_Fiji_reach_97
+940,Suva,-18.14161,178.44149,FJ,P,77366,Swine_flu_cases_in_Fiji_reach_97
+941,Cellardyke,56.22411,-2.69054,GB,P,0,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+942,United Kingdom,54.75844,-2.69531,GB,A,66488991,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+943,Ukraine,49,32,UA,A,44622516,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+944,Tuzilu Kekashicun,38.87035,77.72151,CN,P,0,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+945,Fife,56.25,-3.16667,GB,A,370330,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+946,Weybridge,51.37178,-0.45975,GB,P,19463,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+947,Glasgow,55.86515,-4.25763,GB,P,591620,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+948,Scotland,56,-4,GB,A,5404700,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+949,England,52.16045,-0.70312,GB,A,56286961,Local_government_officials_confiscate_London_ice_cream_made_from_human_breast_milk_for_health_reasons
+950,United Kingdom,54.75844,-2.69531,GB,A,66488991,Local_government_officials_confiscate_London_ice_cream_made_from_human_breast_milk_for_health_reasons
+951,Ukraine,49,32,UA,A,44622516,Local_government_officials_confiscate_London_ice_cream_made_from_human_breast_milk_for_health_reasons
+952,London,51.50853,-0.12574,GB,P,8961989,Local_government_officials_confiscate_London_ice_cream_made_from_human_breast_milk_for_health_reasons
+953,England,52.16045,-0.70312,GB,A,56286961,UN_appeals_for_US$42_million_to_assist_victims_of_Kenya_violence
+954,United Kingdom,54.75844,-2.69531,GB,A,66488991,UN_appeals_for_US$42_million_to_assist_victims_of_Kenya_violence
+955,Ukraine,49,32,UA,A,44622516,UN_appeals_for_US$42_million_to_assist_victims_of_Kenya_violence
+956,London,51.50853,-0.12574,GB,P,8961989,UN_appeals_for_US$42_million_to_assist_victims_of_Kenya_violence
+957,Uganda,1.25,32.5,UG,A,42723139,UN_appeals_for_US$42_million_to_assist_victims_of_Kenya_violence
+958,Kenya,1,38,KE,A,51393010,UN_appeals_for_US$42_million_to_assist_victims_of_Kenya_violence
+959,Nakuru,-0.48402,36.17126,KE,A,1603325,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+960,Nyando,-2.9403,29.9923,BI,P,0,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+961,Homa Bay,-0.666,34.481,KE,A,963794,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+962,North Eastern Province,1,40.25,KE,A,962143,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+963,Nyanza Province,-0.5,34.5,KE,A,4392196,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+964,Kisii,-0.68174,34.76666,KE,P,28547,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+965,Rift Valley Province,0.5,36,KE,A,6987036,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+966,Naivasha,-0.71383,36.43261,KE,P,38366,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+967,Kisumu,-0.069,34.64,KE,A,968909,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+968,Siaya,0.0607,34.28806,KE,P,15354,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+969,Rift Valley Province,0.5,36,KE,A,6987036,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+970,North,22.49471,114.13812,HK,A,280730,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+971,Bunyala Location,0.06667,34.03333,KE,A,0,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+972,Bondo,0.23522,34.28086,KE,P,8683,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+973,Kenya,1,38,KE,A,51393010,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+974,Rongo,-0.75675,34.59833,KE,P,0,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+975,Nyanza,-3.04139,31.16611,TZ,P,0,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+976,Mandera,3.36667,40.7,KE,A,1025756,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+977,Western,13.85681,37.10707,ET,A,0,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+978,Nairobi,-1.28333,36.83333,KE,A,3138369,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+979,Wajir,1.75,40.01667,KE,A,661941,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+980,Migori,-0.982,34.409,KE,A,1028579,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+981,Suba,-1.46611,33.94684,TZ,A,0,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+982,United States,39.76,-98.5,US,A,327167434,Study_reveals_mercury_contamination_throughout_US_food_chain
+983,Utah,39.25024,-111.75103,US,A,2427340,Study_reveals_mercury_contamination_throughout_US_food_chain
+984,Florida,28.75054,-82.5001,US,A,17671452,Study_reveals_mercury_contamination_throughout_US_food_chain
+985,Shandong,36.33333,118.25,CN,A,94170000,"Highly_contagious_Hand,_foot_and_mouth_disease_killing_China%27s_children"
+986,China,35,105,CN,A,1392730000,"Highly_contagious_Hand,_foot_and_mouth_disease_killing_China%27s_children"
+987,Henan,29.23025,102.58737,CN,A,0,"Highly_contagious_Hand,_foot_and_mouth_disease_killing_China%27s_children"
+988,China,35,105,CN,A,1392730000,"Highly_contagious_Hand,_foot_and_mouth_disease_killing_China%27s_children"
+989,Shandong,36.33333,118.25,CN,A,94170000,Pope_to_leave_hospital
+990,China,35,105,CN,A,1392730000,Pope_to_leave_hospital
+991,Henan,29.23025,102.58737,CN,A,0,Pope_to_leave_hospital
+992,China,35,105,CN,A,1392730000,Pope_to_leave_hospital
+993,Rome,41.96667,12.66667,IT,A,4342212,Pope_to_leave_hospital
+994,Lynchburg,35.28314,-86.37416,US,P,6132,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+995,Texas,36.74791,-101.49001,US,A,20640,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+996,Minnesota,46.25024,-94.25055,US,A,5141953,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+997,Ås,59.66366,10.79101,NO,A,15863,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+998,Georgia,32.75042,-83.50018,US,A,8975842,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+999,Solon,41.38978,-81.44123,US,P,23043,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+1000,Tyler,34.10371,-96.90973,US,P,0,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+1001,Texas,36.74791,-101.49001,US,A,20640,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+1002,Nile,38.30455,-80.7351,US,P,0,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+1003,Houston,31.31773,-95.42268,US,A,23732,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+1004,Malakoff,32.1696,-96.01247,US,P,2296,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+1005,Dallas,32.76663,-96.77787,US,A,2368139,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+1006,Fairfield,41.22496,-73.3712,US,A,916829,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+1007,Austin,30.26715,-97.74306,US,P,931830,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+1008,Longview,32.5007,-94.74049,US,P,82287,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+1009,Brattleboro,42.85092,-72.55787,US,P,7414,Crow_found_in_Vermont_is_state%27s_first_West_Nile_case_this_year
+1010,Nile,38.30455,-80.7351,US,P,0,Crow_found_in_Vermont_is_state%27s_first_West_Nile_case_this_year
+1011,Vermont,44.00034,-72.74983,US,A,624501,Crow_found_in_Vermont_is_state%27s_first_West_Nile_case_this_year
+1012,Pirbright,51.2926,-0.65955,GB,A,0,Foot-and-mouth_source_confirmed_as_research_laboratory
+1013,Ukraine,49,32,UA,A,44622516,Foot-and-mouth_source_confirmed_as_research_laboratory
+1014,Surrey,51.25,-0.33333,GB,A,1176549,Foot-and-mouth_source_confirmed_as_research_laboratory
+1015,Guildford,51.23536,-0.57427,GB,P,71873,Foot-and-mouth_source_confirmed_as_research_laboratory
+1016,Alberta,52.28333,-117.469,CA,A,3497881,8th_case_of_mad_cow_disease_found_in_Canada
+1017,United States,39.76,-98.5,US,A,327167434,8th_case_of_mad_cow_disease_found_in_Canada
+1018,Canada,60.10867,-113.64258,CA,A,37058856,8th_case_of_mad_cow_disease_found_in_Canada
+1019,Britain,39.25288,-77.69694,US,P,0,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+1020,Muswell Hill,51.59054,-0.14212,GB,P,27992,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+1021,United Kingdom,54.75844,-2.69531,GB,A,66488991,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+1022,Ukraine,49,32,UA,A,44622516,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+1023,London,51.50853,-0.12574,GB,P,8961989,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+1024,Moscow,46.73239,-117.00017,US,P,25060,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+1025,Atlantic,39.46883,-74.63373,US,A,274549,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+1026,South Africa,-29,24,ZA,A,57779622,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+1027,Northwest,38.93261,-77.04248,US,A,0,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+1028,Américas,9.89896,-83.67407,CR,P,0,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+1029,Houston,31.31773,-95.42268,US,A,23732,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+1030,Virginia,37.54812,-77.44675,US,A,7642884,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+1031,Alaska,64.00028,-150.00028,US,A,660633,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+1032,Kisumu,-0.069,34.64,KE,A,968909,Kenya_confirms_first_swine_flu_case
+1033,Britain,39.25288,-77.69694,US,P,0,Kenya_confirms_first_swine_flu_case
+1034,India,22,79,IN,A,1352617328,Kenya_confirms_first_swine_flu_case
+1035,South Africa,-29,24,ZA,A,57779622,Kenya_confirms_first_swine_flu_case
+1036,Houston,31.31773,-95.42268,US,A,23732,Kenya_confirms_first_swine_flu_case
+1037,London,42.98339,-81.23304,CA,P,346765,Kenya_confirms_first_swine_flu_case
+1038,Kenya,1,38,KE,A,51393010,Kenya_confirms_first_swine_flu_case
+1039,Nyanza,0.30763,29.74004,CD,P,0,Kenya_confirms_first_swine_flu_case
+1040,Nairobi,-1.28333,36.83333,KE,A,3138369,Kenya_confirms_first_swine_flu_case
+1041,England,52.16045,-0.70312,GB,A,56286961,British_report_says_the_U.K._is_preparing_%27mass_graves%27_for_humans_if_Bird_Flu_mutates
+1042,Tuzilu Kekashicun,38.87035,77.72151,CN,P,0,British_report_says_the_U.K._is_preparing_%27mass_graves%27_for_humans_if_Bird_Flu_mutates
+1043,Wales,52.5,-3.5,GB,A,3113150,British_report_says_the_U.K._is_preparing_%27mass_graves%27_for_humans_if_Bird_Flu_mutates
+1044,Pingliang,35.53917,106.68611,CN,P,504848,"Nitrite_poisoned_milk_kills_three_babies,_sickens_35_in_China"
+1045,China,35,105,CN,A,1392730000,"Nitrite_poisoned_milk_kills_three_babies,_sickens_35_in_China"
+1046,Australia,-25,135,AU,A,24992369,Swine_flu:_recent_developments_worldwide
+1047,Turkey,39,35,TR,A,82319724,Swine_flu:_recent_developments_worldwide
+1048,England,52.16045,-0.70312,GB,A,56286961,Swine_flu:_recent_developments_worldwide
+1049,São Paulo,-22,-49,BR,A,41252160,Swine_flu:_recent_developments_worldwide
+1050,Minas Gerais,-18,-44,BR,A,19595309,Swine_flu:_recent_developments_worldwide
+1051,Chile,-30,-71,CL,A,18729160,Swine_flu:_recent_developments_worldwide
+1052,New Zealand,-42,174,NZ,A,4885500,Swine_flu:_recent_developments_worldwide
+1053,Brazil,-10,-55,BR,A,209469333,Swine_flu:_recent_developments_worldwide
+1054,Philippines,13.40882,122.56155,PH,A,106651922,Swine_flu:_recent_developments_worldwide
+1055,Spain,40,-4,ES,A,46723749,Swine_flu:_recent_developments_worldwide
+1056,Wisconsin,44.50024,-90.00041,US,A,5535168,Swine_flu:_recent_developments_worldwide
+1057,New South Wales,-33,146,AU,A,8046100,Swine_flu:_recent_developments_worldwide
+1058,Bulgaria,42.66667,25.25,BG,A,7000039,Swine_flu:_recent_developments_worldwide
+1059,New York,40.77427,-73.96981,US,A,1585873,Swine_flu:_recent_developments_worldwide
+1060,United Kingdom,54.75844,-2.69531,GB,A,66488991,Swine_flu:_recent_developments_worldwide
+1061,Istanbul,41.01384,28.94966,TR,P,14804116,Swine_flu:_recent_developments_worldwide
+1062,Ho Chi Minh City,10.82302,106.62965,VN,P,8993082,Swine_flu:_recent_developments_worldwide
+1063,United States,39.76,-98.5,US,A,327167434,Swine_flu:_recent_developments_worldwide
+1064,Vietnam,16.16667,107.83333,VN,A,95540395,Swine_flu:_recent_developments_worldwide
+1065,Tocantins,-10.5,-48,BR,A,1383453,Swine_flu:_recent_developments_worldwide
+1066,Iraq,33,44,IQ,A,38433600,Swine_flu:_recent_developments_worldwide
+1067,Japan,35.68536,139.75309,JP,A,126529100,Swine_flu:_recent_developments_worldwide
+1068,Ukraine,49,32,UA,A,44622516,Swine_flu:_recent_developments_worldwide
+1069,Rio Grande do Sul,-30,-53.5,BR,A,10695532,Swine_flu:_recent_developments_worldwide
+1070,Ås,59.66366,10.79101,NO,A,15863,Swine_flu:_recent_developments_worldwide
+1071,Américas,9.89896,-83.67407,CR,P,0,Swine_flu:_recent_developments_worldwide
+1072,Rio de Janeiro,-22.90642,-43.18223,BR,P,6023699,Swine_flu:_recent_developments_worldwide
+1073,Moscow,46.73239,-117.00017,US,P,25060,Swine_flu:_recent_developments_worldwide
+1074,Melbourne,28.08363,-80.60811,US,P,80127,Swine_flu:_recent_developments_worldwide
+1075,Victoria,28.79635,-96.97153,US,A,86793,Swine_flu:_recent_developments_worldwide
+1076,Scotland,34.8409,-79.48043,US,A,36157,Swine_flu:_recent_developments_worldwide
+1077,Toronto,40.46423,-80.60091,US,P,4882,Swine_flu:_recent_developments_worldwide
+1078,Santa Catarina,26.65534,-98.57752,US,P,0,Swine_flu:_recent_developments_worldwide
+1079,Egypt,40.6801,-75.52991,US,P,2391,Swine_flu:_recent_developments_worldwide
+1080,Lebanon,40.36723,-76.45771,US,A,133568,Swine_flu:_recent_developments_worldwide
+1081,Paisley,28.9836,-81.54174,US,P,818,Swine_flu:_recent_developments_worldwide
+1082,Nicaragua,16.11861,-93.17611,MX,P,6,Swine_flu:_recent_developments_worldwide
+1083,Russia,18.21649,-78.12361,JM,A,872,Swine_flu:_recent_developments_worldwide
+1084,Singapore,-24.56233,29.31502,ZA,P,0,Swine_flu:_recent_developments_worldwide
+1085,Santiago,-29.11368,-54.73359,BR,A,49082,Swine_flu:_recent_developments_worldwide
+1086,Canada,60.10867,-113.64258,CA,A,37058856,Swine_flu:_recent_developments_worldwide
+1087,Glasgow,36.99588,-85.91192,US,P,14470,Swine_flu:_recent_developments_worldwide
+1088,Australia,-25,135,AU,A,24992369,Poisoned_liquor_kills_17_in_Kenyan_slum
+1089,Turkey,39,35,TR,A,82319724,Poisoned_liquor_kills_17_in_Kenyan_slum
+1090,England,52.16045,-0.70312,GB,A,56286961,Poisoned_liquor_kills_17_in_Kenyan_slum
+1091,São Paulo,-22,-49,BR,A,41252160,Poisoned_liquor_kills_17_in_Kenyan_slum
+1092,Minas Gerais,-18,-44,BR,A,19595309,Poisoned_liquor_kills_17_in_Kenyan_slum
+1093,Chile,-30,-71,CL,A,18729160,Poisoned_liquor_kills_17_in_Kenyan_slum
+1094,New Zealand,-42,174,NZ,A,4885500,Poisoned_liquor_kills_17_in_Kenyan_slum
+1095,Brazil,-10,-55,BR,A,209469333,Poisoned_liquor_kills_17_in_Kenyan_slum
+1096,Philippines,13.40882,122.56155,PH,A,106651922,Poisoned_liquor_kills_17_in_Kenyan_slum
+1097,Spain,40,-4,ES,A,46723749,Poisoned_liquor_kills_17_in_Kenyan_slum
+1098,Wisconsin,44.50024,-90.00041,US,A,5535168,Poisoned_liquor_kills_17_in_Kenyan_slum
+1099,New South Wales,-33,146,AU,A,8046100,Poisoned_liquor_kills_17_in_Kenyan_slum
+1100,Bulgaria,42.66667,25.25,BG,A,7000039,Poisoned_liquor_kills_17_in_Kenyan_slum
+1101,New York,40.77427,-73.96981,US,A,1585873,Poisoned_liquor_kills_17_in_Kenyan_slum
+1102,United Kingdom,54.75844,-2.69531,GB,A,66488991,Poisoned_liquor_kills_17_in_Kenyan_slum
+1103,Istanbul,41.01384,28.94966,TR,P,14804116,Poisoned_liquor_kills_17_in_Kenyan_slum
+1104,Ho Chi Minh City,10.82302,106.62965,VN,P,8993082,Poisoned_liquor_kills_17_in_Kenyan_slum
+1105,United States,39.76,-98.5,US,A,327167434,Poisoned_liquor_kills_17_in_Kenyan_slum
+1106,Vietnam,16.16667,107.83333,VN,A,95540395,Poisoned_liquor_kills_17_in_Kenyan_slum
+1107,Tocantins,-10.5,-48,BR,A,1383453,Poisoned_liquor_kills_17_in_Kenyan_slum
+1108,Iraq,33,44,IQ,A,38433600,Poisoned_liquor_kills_17_in_Kenyan_slum
+1109,Japan,35.68536,139.75309,JP,A,126529100,Poisoned_liquor_kills_17_in_Kenyan_slum
+1110,Ukraine,49,32,UA,A,44622516,Poisoned_liquor_kills_17_in_Kenyan_slum
+1111,Rio Grande do Sul,-30,-53.5,BR,A,10695532,Poisoned_liquor_kills_17_in_Kenyan_slum
+1112,Ås,59.66366,10.79101,NO,A,15863,Poisoned_liquor_kills_17_in_Kenyan_slum
+1113,Américas,9.89896,-83.67407,CR,P,0,Poisoned_liquor_kills_17_in_Kenyan_slum
+1114,Rio de Janeiro,-22.90642,-43.18223,BR,P,6023699,Poisoned_liquor_kills_17_in_Kenyan_slum
+1115,Moscow,46.73239,-117.00017,US,P,25060,Poisoned_liquor_kills_17_in_Kenyan_slum
+1116,Melbourne,28.08363,-80.60811,US,P,80127,Poisoned_liquor_kills_17_in_Kenyan_slum
+1117,Victoria,28.79635,-96.97153,US,A,86793,Poisoned_liquor_kills_17_in_Kenyan_slum
+1118,Scotland,34.8409,-79.48043,US,A,36157,Poisoned_liquor_kills_17_in_Kenyan_slum
+1119,Toronto,40.46423,-80.60091,US,P,4882,Poisoned_liquor_kills_17_in_Kenyan_slum
+1120,Santa Catarina,26.65534,-98.57752,US,P,0,Poisoned_liquor_kills_17_in_Kenyan_slum
+1121,Egypt,40.6801,-75.52991,US,P,2391,Poisoned_liquor_kills_17_in_Kenyan_slum
+1122,Lebanon,40.36723,-76.45771,US,A,133568,Poisoned_liquor_kills_17_in_Kenyan_slum
+1123,Paisley,28.9836,-81.54174,US,P,818,Poisoned_liquor_kills_17_in_Kenyan_slum
+1124,Nicaragua,16.11861,-93.17611,MX,P,6,Poisoned_liquor_kills_17_in_Kenyan_slum
+1125,Russia,18.21649,-78.12361,JM,A,872,Poisoned_liquor_kills_17_in_Kenyan_slum
+1126,Singapore,-24.56233,29.31502,ZA,P,0,Poisoned_liquor_kills_17_in_Kenyan_slum
+1127,Santiago,-29.11368,-54.73359,BR,A,49082,Poisoned_liquor_kills_17_in_Kenyan_slum
+1128,Canada,60.10867,-113.64258,CA,A,37058856,Poisoned_liquor_kills_17_in_Kenyan_slum
+1129,Glasgow,36.99588,-85.91192,US,P,14470,Poisoned_liquor_kills_17_in_Kenyan_slum
+1130,Nairobi,-1.28333,36.83333,KE,A,3138369,Poisoned_liquor_kills_17_in_Kenyan_slum
+1131,Kenya,1,38,KE,A,51393010,Poisoned_liquor_kills_17_in_Kenyan_slum
+1132,Kibera,0.65,28.76667,CD,P,0,Poisoned_liquor_kills_17_in_Kenyan_slum
+1133,Ituri,1.56667,30.25,CD,A,4241236,Plague_kills_scores_in_Democratic_Republic_of_Congo
+1134,Orientale,2.5,27,CD,A,6828888,Plague_kills_scores_in_Democratic_Republic_of_Congo
+1135,Kinshasa,-4.32758,15.31357,CD,P,7785965,Plague_kills_scores_in_Democratic_Republic_of_Congo
+1136,Congo,-7.79578,-36.63487,BR,A,4692,Plague_kills_scores_in_Democratic_Republic_of_Congo
+1137,Wanborough,51.22778,-0.67387,GB,A,0,Foot-and-mouth_confirmed_at_UK_farm
+1138,France,46,2,FR,A,66987244,Foot-and-mouth_confirmed_at_UK_farm
+1139,Ukraine,49,32,UA,A,44622516,Foot-and-mouth_confirmed_at_UK_farm
+1140,London,51.50853,-0.12574,GB,P,8961989,Foot-and-mouth_confirmed_at_UK_farm
+1141,Surrey,51.25,-0.33333,GB,A,1176549,Foot-and-mouth_confirmed_at_UK_farm
+1142,Italy,42.83333,12.83333,IT,A,60431283,Foot-and-mouth_confirmed_at_UK_farm
+1143,Dorset,50.75,-2.33333,GB,A,422727,Foot-and-mouth_confirmed_at_UK_farm
+1144,Gauteng,-26.08333,28.25,ZA,A,10058121,World_AIDS_Day_events_held_around_the_globe
+1145,United States,39.76,-98.5,US,A,327167434,World_AIDS_Day_events_held_around_the_globe
+1146,South Africa,-29,24,ZA,A,57779622,World_AIDS_Day_events_held_around_the_globe
+1147,Midrand,-25.98953,28.12843,ZA,P,87387,World_AIDS_Day_events_held_around_the_globe
+1148,Shanghai,31.16667,121.41667,CN,A,18880000,World_AIDS_Day_events_held_around_the_globe
+1149,Changsha,28.19874,112.97087,CN,P,3093980,World_AIDS_Day_events_held_around_the_globe
+1150,China,35,105,CN,A,1392730000,World_AIDS_Day_events_held_around_the_globe
+1151,Beijing,39.9075,116.39723,CN,P,18960744,World_AIDS_Day_events_held_around_the_globe
+1152,Johannesburg,-26.20227,28.04363,ZA,P,2026469,World_AIDS_Day_events_held_around_the_globe
+1153,Sanya,18.24306,109.505,CN,P,1031396,World_AIDS_Day_events_held_around_the_globe
+1154,North Carolina,35.50069,-80.00032,US,A,10488084,2014_flu_season_in_USA
+1155,Arkansas,34.75037,-92.50044,US,A,2757631,2014_flu_season_in_USA
+1156,Maine,45.50032,-69.24977,US,A,1325518,2014_flu_season_in_USA
+1157,Rhode Island,41.75038,-71.49978,US,A,1050292,2014_flu_season_in_USA
+1158,Idaho,44.5002,-114.25118,US,A,1416564,2014_flu_season_in_USA
+1159,West Virginia,38.50038,-80.50009,US,A,1817871,2014_flu_season_in_USA
+1160,Alabama,32.75041,-86.75026,US,A,4530315,2014_flu_season_in_USA
+1161,Houston,31.31773,-95.42268,US,A,23732,2014_flu_season_in_USA
+1162,Montana,47.00025,-109.75102,US,A,930698,2014_flu_season_in_USA
+1163,New Hampshire,43.66702,-71.4998,US,A,1316216,2014_flu_season_in_USA
+1164,Virginia,37.54812,-77.44675,US,A,7642884,2014_flu_season_in_USA
+1165,Colorado,39.00027,-105.50083,US,A,4678630,2014_flu_season_in_USA
+1166,Delaware,39.00039,-75.49992,US,A,838549,2014_flu_season_in_USA
+1167,Vermont,44.00034,-72.74983,US,A,624501,2014_flu_season_in_USA
+1168,Anhui,31.91667,117.16667,CN,A,64610000,Child_virus_outbreak_reaches_Beijing
+1169,Guangxi,24,109,CN,A,48160000,Child_virus_outbreak_reaches_Beijing
+1170,Guangdong,23.5,113.25,CN,A,104303132,Child_virus_outbreak_reaches_Beijing
+1171,Fuyang,28.53258,107.74252,CN,P,0,Child_virus_outbreak_reaches_Beijing
+1172,Zhejiang,29.16667,120,CN,A,51200000,Child_virus_outbreak_reaches_Beijing
+1173,Hebei,23.37081,115.38234,CN,P,0,Child_virus_outbreak_reaches_Beijing
+1174,China,35,105,CN,A,1392730000,Child_virus_outbreak_reaches_Beijing
+1175,Hubei,32.63637,120.08452,CN,P,0,Child_virus_outbreak_reaches_Beijing
+1176,China,35,105,CN,A,1392730000,Child_virus_outbreak_reaches_Beijing
+1177,Beijing,39.9075,116.39723,CN,P,18960744,Child_virus_outbreak_reaches_Beijing
+1178,China,35,105,CN,A,1392730000,Child_virus_outbreak_reaches_Beijing
+1179,Hubei,31,112.25,CN,A,57110000,Child_virus_outbreak_reaches_Beijing
+1180,Hainan,19.25,109.75,CN,A,8540000,Child_virus_outbreak_reaches_Beijing
+1181,Hunan,27.66667,111.75,CN,A,66980000,Child_virus_outbreak_reaches_Beijing
+1182,Libya,28,17,LY,A,6678567,Libya_frees_foreign_HIV_medics
+1183,France,46,2,FR,A,66987244,Libya_frees_foreign_HIV_medics
+1184,Benghazi,32.11486,20.06859,LY,P,650629,Libya_frees_foreign_HIV_medics
+1185,Bulgaria,42.66667,25.25,BG,A,7000039,Libya_frees_foreign_HIV_medics
+1186,E-u,20.70789,99.1428,MM,P,0,Libya_frees_foreign_HIV_medics
+1187,Qatar,25.5,51.25,QA,A,2781677,Libya_frees_foreign_HIV_medics
+1188,Sofia,42.68647,23.30561,BG,A,1328120,Libya_frees_foreign_HIV_medics
+1189,Tripoli,32.88743,13.18733,LY,P,1150989,Libya_frees_foreign_HIV_medics
+1190,Paris,48.85339,2.34864,FR,A,4380654,Libya_frees_foreign_HIV_medics
+1191,South Sudan,7.5,30,SS,A,8260490,Six_aid_workers_dead_in_ambush_in_South_Sudan
+1192,Pibor,6.79853,33.13045,SS,P,0,Six_aid_workers_dead_in_ambush_in_South_Sudan
+1193,Juba,4.85871,31.59162,SS,A,492970,Six_aid_workers_dead_in_ambush_in_South_Sudan
+1194,Goz Beida,12.22643,21.40983,TD,P,1000,M%C3%A9decins_Sans_Fronti%C3%A8res_warns_of_emerging_crisis_in_eastern_Chad
+1195,Sudan,16,30,SD,A,41801533,M%C3%A9decins_Sans_Fronti%C3%A8res_warns_of_emerging_crisis_in_eastern_Chad
+1196,Darfur,44.05135,-94.83804,US,P,106,M%C3%A9decins_Sans_Fronti%C3%A8res_warns_of_emerging_crisis_in_eastern_Chad
+1197,South Africa,-29,24,ZA,A,57779622,M%C3%A9decins_Sans_Fronti%C3%A8res_warns_of_emerging_crisis_in_eastern_Chad
+1198,Chad,15,19,TD,A,15477751,M%C3%A9decins_Sans_Fronti%C3%A8res_warns_of_emerging_crisis_in_eastern_Chad
+1199,England,52.16045,-0.70312,GB,A,56286961,H5N1_strain_of_Avian_Flu_found_in_the_UK
+1200,United Kingdom,54.75844,-2.69531,GB,A,66488991,H5N1_strain_of_Avian_Flu_found_in_the_UK
+1201,Cellardyke,56.22411,-2.69054,GB,P,0,H5N1_strain_of_Avian_Flu_found_in_the_UK
+1202,Suffolk,52.16667,1,GB,A,745274,H5N1_strain_of_Avian_Flu_found_in_the_UK
+1203,Fife,56.25,-3.16667,GB,A,370330,H5N1_strain_of_Avian_Flu_found_in_the_UK
+1204,Scotland,56,-4,GB,A,5404700,H5N1_strain_of_Avian_Flu_found_in_the_UK
+1205,New Jersey,40.16706,-74.49987,US,A,8751436,James_Brown_dies_of_pneumonia
+1206,New York,40.77427,-73.96981,US,A,1585873,James_Brown_dies_of_pneumonia
+1207,Atlanta,33.749,-84.38798,US,P,463878,James_Brown_dies_of_pneumonia
+1208,Washington,44.27342,-72.6149,US,A,59534,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+1209,United Kingdom,54.75844,-2.69531,GB,A,66488991,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+1210,Iowa,42.00027,-93.50049,US,A,2955010,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+1211,Sweden,62,15,SE,A,10183175,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+1212,Ukraine,49,32,UA,A,44622516,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+1213,Ås,59.66366,10.79101,NO,A,15863,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+1214,Ames,42.03471,-93.61994,US,P,65060,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+1215,Canada,60.10867,-113.64258,CA,A,37058856,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+1216,Kansas,38.50029,-98.50063,US,A,2740759,US_declares_public_health_emergency_over_spread_of_swine_flu
+1217,Ohio,38.9501,-84.96503,US,A,6128,US_declares_public_health_emergency_over_spread_of_swine_flu
+1218,United States,39.76,-98.5,US,A,327167434,US_declares_public_health_emergency_over_spread_of_swine_flu
+1219,Texas,36.74791,-101.49001,US,A,20640,US_declares_public_health_emergency_over_spread_of_swine_flu
+1220,New York,40.77427,-73.96981,US,A,1585873,US_declares_public_health_emergency_over_spread_of_swine_flu
+1221,Queens,40.65749,-73.83875,US,A,2230722,US_declares_public_health_emergency_over_spread_of_swine_flu
+1222,Ås,59.66366,10.79101,NO,A,15863,US_declares_public_health_emergency_over_spread_of_swine_flu
+1223,City of New York,40.66393,-73.93827,US,A,8175133,US_declares_public_health_emergency_over_spread_of_swine_flu
+1224,United States,39.76,-98.5,US,A,327167434,US_declares_public_health_emergency_over_spread_of_swine_flu
+1225,California,37.25022,-119.75126,US,A,39512223,US_declares_public_health_emergency_over_spread_of_swine_flu
+1226,Tennessee,35.75035,-86.25027,US,A,5935099,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1227,Ohio,38.9501,-84.96503,US,A,6128,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1228,Missouri,38.25031,-92.50046,US,A,5768151,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1229,Illinois,40.00032,-89.25037,US,A,12772888,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1230,Wisconsin,44.50024,-90.00041,US,A,5535168,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1231,Alberta,52.28333,-117.469,CA,A,3497881,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1232,Oklahoma,35.49209,-97.50328,US,A,3547049,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1233,New Mexico,34.50034,-106.00085,US,A,1912684,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1234,New York,40.77427,-73.96981,US,A,1585873,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1235,British Columbia,53.99983,-125.0032,CA,A,4413973,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1236,Washington,44.27342,-72.6149,US,A,59534,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1237,United States,39.76,-98.5,US,A,327167434,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1238,New Jersey,40.16706,-74.49987,US,A,8751436,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1239,Ås,59.66366,10.79101,NO,A,15863,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1240,Honduras,40.7581,-85.03302,US,P,0,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1241,Arizona,34.5003,-111.50098,US,A,5863809,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1242,California,37.25022,-119.75126,US,A,39512223,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1243,Manitoba,55.00019,-97.00049,CA,A,1193566,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1244,Ontario,34.06334,-117.65089,US,P,171214,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1245,Colorado,39.00027,-105.50083,US,A,4678630,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1246,Utah,39.25024,-111.75103,US,A,2427340,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1247,Georgia,32.75042,-83.50018,US,A,8975842,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1248,Oregon,44.00013,-120.50139,US,A,3642919,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1249,New Brunswick,40.48622,-74.45182,US,P,57035,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1250,Canada,60.10867,-113.64258,CA,A,37058856,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+1251,Maharashtra,19.5,76,IN,A,112374333,"First_bird_flu_cases_registered_In_Maharashtra,_India"
+1252,Mumbai,18.95963,72.84962,IN,A,0,"First_bird_flu_cases_registered_In_Maharashtra,_India"
+1253,India,22,79,IN,A,1352617328,"First_bird_flu_cases_registered_In_Maharashtra,_India"
+1254,Nandurbar,21.37,74.2,IN,A,1648295,"First_bird_flu_cases_registered_In_Maharashtra,_India"
+1255,Dhule,20.9013,74.77737,IN,P,366980,"First_bird_flu_cases_registered_In_Maharashtra,_India"
+1256,Washington,44.27342,-72.6149,US,A,59534,Patient_under_evaluation_with_Ebola-like_symptoms_in_Washington_D.C.
+1257,Nigeria,10,8,NG,A,195874740,Patient_under_evaluation_with_Ebola-like_symptoms_in_Washington_D.C.
+1258,Bogotá  D.C.,4.31465,-74.18077,CO,A,6840116,Patient_under_evaluation_with_Ebola-like_symptoms_in_Washington_D.C.
+1259,Rockville,39.084,-77.15276,US,P,66980,Patient_under_evaluation_with_Ebola-like_symptoms_in_Washington_D.C.
+1260,Maryland,39.00039,-76.74997,US,A,5624246,Patient_under_evaluation_with_Ebola-like_symptoms_in_Washington_D.C.
+1261,New Zealand,-42,174,NZ,A,4885500,Hepatitis_scare_at_New_Zealand_McDonald%27s_restaurant
+1262,Greenlane,-36.89055,174.79426,NZ,P,0,Hepatitis_scare_at_New_Zealand_McDonald%27s_restaurant
+1263,Auckland,-36.85,174.78333,NZ,A,444100,Hepatitis_scare_at_New_Zealand_McDonald%27s_restaurant
+1264,Västerås,63.26667,17.18333,SE,P,0,Possible_first_case_of_mad_cow_disease_in_Sweden
+1265,United Kingdom,54.75844,-2.69531,GB,A,66488991,Possible_first_case_of_mad_cow_disease_in_Sweden
+1266,Sweden,62,15,SE,A,10183175,Possible_first_case_of_mad_cow_disease_in_Sweden
+1267,Ukraine,49,32,UA,A,44622516,Possible_first_case_of_mad_cow_disease_in_Sweden
+1268,Stockholm,59.5,18,SE,A,2127006,Possible_first_case_of_mad_cow_disease_in_Sweden
+1269,Zimbabwe,-20.26667,30.91667,ZW,P,0,WHO:_Polio_reemerging_in_Africa
+1270,South Africa,-29,24,ZA,A,57779622,WHO:_Polio_reemerging_in_Africa
+1271,Chad,15,19,TD,A,15477751,WHO:_Polio_reemerging_in_Africa
+1272,Angola,-12.5,18.5,AO,A,30809762,WHO:_Polio_reemerging_in_Africa
+1273,Nepal,28,84,NP,A,28087871,Asian_monsoon_rains_force_millions_to_flee
+1274,India,22,79,IN,A,1352617328,Asian_monsoon_rains_force_millions_to_flee
+1275,Uttar Pradesh,27.25,80.75,IN,A,199812341,Asian_monsoon_rains_force_millions_to_flee
+1276,Bangladesh,24,90,BD,A,161356039,Asian_monsoon_rains_force_millions_to_flee
+1277,Gondra,21.99808,77.77538,IN,P,0,Asian_monsoon_rains_force_millions_to_flee
+1278,Indore,22.71792,75.8333,IN,P,1837041,Asian_monsoon_rains_force_millions_to_flee
+1279,Bihar,25.75,85.75,IN,A,104099452,Asian_monsoon_rains_force_millions_to_flee
+1280,Amman,31.58369,36.33335,JO,A,1972712,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+1281,United Kingdom,54.75844,-2.69531,GB,A,66488991,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+1282,Baghdad,33.34058,44.40088,IQ,P,7216000,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+1283,Iraq,33,44,IQ,A,38433600,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+1284,Jordan,31,36,JO,A,9956011,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+1285,Amman,31.58369,36.33335,JO,A,1972712,Blood_recipients_contract_HIV_in_Peru
+1286,United Kingdom,54.75844,-2.69531,GB,A,66488991,Blood_recipients_contract_HIV_in_Peru
+1287,Baghdad,33.34058,44.40088,IQ,P,7216000,Blood_recipients_contract_HIV_in_Peru
+1288,Iraq,33,44,IQ,A,38433600,Blood_recipients_contract_HIV_in_Peru
+1289,Jordan,31,36,JO,A,9956011,Blood_recipients_contract_HIV_in_Peru
+1290,Peru,-10,-75.25,PE,A,31989256,Blood_recipients_contract_HIV_in_Peru
+1291,Santa Clara,30.58381,-84.56213,US,P,0,Woman_finds_human_finger_in_bowl_of_chili_at_Wendy%27s_restaurant
+1292,San Jose,37.33939,-121.89496,US,P,1026908,Woman_finds_human_finger_in_bowl_of_chili_at_Wendy%27s_restaurant
+1293,California,37.25022,-119.75126,US,A,39512223,Woman_finds_human_finger_in_bowl_of_chili_at_Wendy%27s_restaurant
+1294,Las Vegas,36.17497,-115.13722,US,P,623747,Woman_finds_human_finger_in_bowl_of_chili_at_Wendy%27s_restaurant
+1295,Ukraine,49,32,UA,A,44622516,Source_of_UK_foot-and-mouth_outbreak_discovered
+1296,Surrey,51.25,-0.33333,GB,A,1176549,Source_of_UK_foot-and-mouth_outbreak_discovered
+1297,Mbanza Congo,-6.26667,14.23833,AO,P,24220,UNHCR:_Thousands_of_Angolans_expelled_from_DRC_in_%22dire%22_need_of_aid
+1298,DR Congo,-2.5,23.5,CD,A,84068091,UNHCR:_Thousands_of_Angolans_expelled_from_DRC_in_%22dire%22_need_of_aid
+1299,Angola,-12.5,18.5,AO,A,30809762,UNHCR:_Thousands_of_Angolans_expelled_from_DRC_in_%22dire%22_need_of_aid
+1300,New York,40.77427,-73.96981,US,A,1585873,9_year_old_girl_reported_to_be_latest_US_swine_flu_death
+1301,United States,39.76,-98.5,US,A,327167434,9_year_old_girl_reported_to_be_latest_US_swine_flu_death
+1302,Buffalo,42.88645,-78.87837,US,P,258071,9_year_old_girl_reported_to_be_latest_US_swine_flu_death
+1303,Anhui,31.91667,117.16667,CN,A,64610000,Mass_poultry_vaccination_planned_by_China
+1304,Liaoning,41.25,122.66667,CN,A,43150000,Mass_poultry_vaccination_planned_by_China
+1305,Hunan,27.66667,111.75,CN,A,66980000,Mass_poultry_vaccination_planned_by_China
+1306,China,35,105,CN,A,1392730000,Mass_poultry_vaccination_planned_by_China
+1307,England,52.16045,-0.70312,GB,A,56286961,"Three_die_in_Cornwall,_UK_caravan_park_of_suspected_carbon_monoxide_poisoning"
+1308,Devon,50.75,-3.75,GB,A,779834,"Three_die_in_Cornwall,_UK_caravan_park_of_suspected_carbon_monoxide_poisoning"
+1309,Camborne,50.21306,-5.29731,GB,P,22500,"Three_die_in_Cornwall,_UK_caravan_park_of_suspected_carbon_monoxide_poisoning"
+1310,South West,28.5806,77.0672,IN,A,2292958,"Three_die_in_Cornwall,_UK_caravan_park_of_suspected_carbon_monoxide_poisoning"
+1311,Cornwall,50.41667,-4.75,GB,A,553687,"Three_die_in_Cornwall,_UK_caravan_park_of_suspected_carbon_monoxide_poisoning"
+1312,Frederick County,39.47222,-77.39799,US,A,233385,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+1313,Frederick,38.81119,-82.77767,US,P,0,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+1314,City of New York,40.66393,-73.93827,US,A,8175133,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+1315,Washington,38.96678,-77.04137,US,A,0,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+1316,Florida,28.75054,-82.5001,US,A,17671452,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+1317,Maryland,39.00039,-76.74997,US,A,5624246,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+1318,England,52.16045,-0.70312,GB,A,56286961,New_case_of_Mad_Cow_disease_found_in_Canada
+1319,Washington,44.27342,-72.6149,US,A,59534,New_case_of_Mad_Cow_disease_found_in_Canada
+1320,United States,39.76,-98.5,US,A,327167434,New_case_of_Mad_Cow_disease_found_in_Canada
+1321,Alberta,52.28333,-117.469,CA,A,3497881,New_case_of_Mad_Cow_disease_found_in_Canada
+1322,Texas,36.74791,-101.49001,US,A,20640,New_case_of_Mad_Cow_disease_found_in_Canada
+1323,Winnipeg,37.60449,-92.30211,US,P,0,New_case_of_Mad_Cow_disease_found_in_Canada
+1324,Canada,60.10867,-113.64258,CA,A,37058856,New_case_of_Mad_Cow_disease_found_in_Canada
+1325,West Sumatra,-1,100.5,ID,A,5014112,Indonesian_Health_Ministry:_Two_new_human_clusters_of_Bird_Flu_suspected_in_Sumatra
+1326,Karo,-3.1099,120.2521,ID,P,0,Indonesian_Health_Ministry:_Two_new_human_clusters_of_Bird_Flu_suspected_in_Sumatra
+1327,Medan,3.58333,98.66667,ID,P,1750971,Indonesian_Health_Ministry:_Two_new_human_clusters_of_Bird_Flu_suspected_in_Sumatra
+1328,New Zealand,-42,174,NZ,A,4885500,"Swine_flu,_in-depth:_worldwide_report"
+1329,Brazil,-10,-55,BR,A,209469333,"Swine_flu,_in-depth:_worldwide_report"
+1330,Mexico,23,-102,MX,A,126190788,"Swine_flu,_in-depth:_worldwide_report"
+1331,Norway,62,10,NO,A,5314336,"Swine_flu,_in-depth:_worldwide_report"
+1332,Kisumu,-0.069,34.64,KE,A,968909,"Swine_flu,_in-depth:_worldwide_report"
+1333,United Kingdom,54.75844,-2.69531,GB,A,66488991,"Swine_flu,_in-depth:_worldwide_report"
+1334,Britain,39.25288,-77.69694,US,P,0,"Swine_flu,_in-depth:_worldwide_report"
+1335,United States,39.76,-98.5,US,A,327167434,"Swine_flu,_in-depth:_worldwide_report"
+1336,Vietnam,16.16667,107.83333,VN,A,95540395,"Swine_flu,_in-depth:_worldwide_report"
+1337,France,46,2,FR,A,66987244,"Swine_flu,_in-depth:_worldwide_report"
+1338,India,22,79,IN,A,1352617328,"Swine_flu,_in-depth:_worldwide_report"
+1339,Ukraine,49,32,UA,A,44622516,"Swine_flu,_in-depth:_worldwide_report"
+1340,São Paulo,-22,-49,BR,A,41252160,"Swine_flu,_in-depth:_worldwide_report"
+1341,Rift Valley Province,0.5,36,KE,A,6987036,"Swine_flu,_in-depth:_worldwide_report"
+1342,Rio de Janeiro,-22.90642,-43.18223,BR,P,6023699,"Swine_flu,_in-depth:_worldwide_report"
+1343,Houston,31.31773,-95.42268,US,A,23732,"Swine_flu,_in-depth:_worldwide_report"
+1344,Kenya,1,38,KE,A,51393010,"Swine_flu,_in-depth:_worldwide_report"
+1345,China,25.51224,-99.00457,MX,A,0,"Swine_flu,_in-depth:_worldwide_report"
+1346,Switzerland,38.82616,-85.037,US,A,10613,"Swine_flu,_in-depth:_worldwide_report"
+1347,Italy,42.83333,12.83333,IT,A,60431283,"Swine_flu,_in-depth:_worldwide_report"
+1348,Nairobi,-1.28333,36.83333,KE,A,3138369,"Swine_flu,_in-depth:_worldwide_report"
+1349,Argentina,17.00156,-92.9078,MX,P,224,"Swine_flu,_in-depth:_worldwide_report"
+1350,Nile,38.30455,-80.7351,US,P,0,Two_new_cases_of_West_Nile_Virus_reported_in_Indiana
+1351,Hammond,41.58337,-87.50004,US,P,77614,Two_new_cases_of_West_Nile_Virus_reported_in_Indiana
+1352,Indiana,40.00032,-86.25027,US,A,6265933,Two_new_cases_of_West_Nile_Virus_reported_in_Indiana
+1353,Namru,31.91222,80.15132,CN,P,0,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+1354,Kabanjahe,3.1001,98.4908,ID,P,57159,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+1355,Indonesia,-5,120,ID,A,267663435,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+1356,Ås,59.66366,10.79101,NO,A,15863,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+1357,West Sumatra,-1,100.5,ID,A,5014112,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+1358,Georgia,32.75042,-83.50018,US,A,8975842,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+1359,Atlanta,33.749,-84.38798,US,P,463878,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+1360,Al-Fashir,13.62793,25.34936,SD,P,252609,"Disease_scare_in_south_Sudan,_aid_groups_return"
+1361,Warab,8.13333,28.61667,SS,P,0,"Disease_scare_in_south_Sudan,_aid_groups_return"
+1362,Khartoum,15.55177,32.53241,SD,P,1974647,"Disease_scare_in_south_Sudan,_aid_groups_return"
+1363,Sudan,16,30,SD,A,41801533,"Disease_scare_in_south_Sudan,_aid_groups_return"
+1364,Darfur,44.05135,-94.83804,US,P,106,"Disease_scare_in_south_Sudan,_aid_groups_return"
+1365,Malakal,9.53342,31.66049,SS,P,160765,"Disease_scare_in_south_Sudan,_aid_groups_return"
+1366,Nyala,12.04888,24.88069,SD,P,565734,"Disease_scare_in_south_Sudan,_aid_groups_return"
+1367,Plateau-Central,12.58774,-1.30102,BF,A,696372,Nearly_200_dead_in_Haitian_cholera_outbreak
+1368,Port-au-Prince,18.52557,-72.33697,HT,A,0,Nearly_200_dead_in_Haitian_cholera_outbreak
+1369,Haiti,19.07582,-72.29616,HT,A,11123176,Nearly_200_dead_in_Haitian_cholera_outbreak
+1370,Tennessee,35.75035,-86.25027,US,A,5935099,Swine_flu_worldwide:_update
+1371,New Zealand,-42,174,NZ,A,4885500,Swine_flu_worldwide:_update
+1372,Nigeria,10,8,NG,A,195874740,Swine_flu_worldwide:_update
+1373,South Carolina,34.00043,-81.00009,US,A,4229842,Swine_flu_worldwide:_update
+1374,Germany,51.5,10.5,DE,A,82927922,Swine_flu_worldwide:_update
+1375,Texas,36.74791,-101.49001,US,A,20640,Swine_flu_worldwide:_update
+1376,Nova Scotia,45.00015,-62.99865,CA,A,935573,Swine_flu_worldwide:_update
+1377,Illinois,40.00032,-89.25037,US,A,12772888,Swine_flu_worldwide:_update
+1378,Spain,40,-4,ES,A,46723749,Swine_flu_worldwide:_update
+1379,Quebec,52.00017,-71.99907,CA,A,8585523,Swine_flu_worldwide:_update
+1380,Alberta,52.28333,-117.469,CA,A,3497881,Swine_flu_worldwide:_update
+1381,Mexico,23,-102,MX,A,126190788,Swine_flu_worldwide:_update
+1382,Alabama,32.75041,-86.75026,US,A,4530315,Swine_flu_worldwide:_update
+1383,British Columbia,53.99983,-125.0032,CA,A,4413973,Swine_flu_worldwide:_update
+1384,Bavaria,49,11.5,DE,A,12510331,Swine_flu_worldwide:_update
+1385,United States,39.76,-98.5,US,A,327167434,Swine_flu_worldwide:_update
+1386,Shanghai,31.16667,121.41667,CN,A,18880000,Swine_flu_worldwide:_update
+1387,Mexican Colony,35.46885,-119.26872,US,P,281,Swine_flu_worldwide:_update
+1388,Hong Kong,22.25,114.16667,HK,A,7451000,Swine_flu_worldwide:_update
+1389,Houston,31.31773,-95.42268,US,A,23732,Swine_flu_worldwide:_update
+1390,China,25.51224,-99.00457,MX,A,0,Swine_flu_worldwide:_update
+1391,Cairo,30.87751,-84.20214,US,P,9752,Swine_flu_worldwide:_update
+1392,Kentucky,38.20042,-84.87762,US,A,4206074,Swine_flu_worldwide:_update
+1393,Ontario,34.06334,-117.65089,US,P,171214,Swine_flu_worldwide:_update
+1394,Hong Kong,22.95805,-109.93898,MX,P,5,Swine_flu_worldwide:_update
+1395,Auckland,36.588,-119.10678,US,P,0,Swine_flu_worldwide:_update
+1396,Egypt,40.6801,-75.52991,US,P,2391,Swine_flu_worldwide:_update
+1397,Houston,29.76328,-95.36327,US,P,2296224,Swine_flu_worldwide:_update
+1398,Delaware,39.00039,-75.49992,US,A,838549,Swine_flu_worldwide:_update
+1399,New Brunswick,40.48622,-74.45182,US,P,57035,Swine_flu_worldwide:_update
+1400,Canada,60.10867,-113.64258,CA,A,37058856,Swine_flu_worldwide:_update
+1401,Greece,39,22,GR,A,10727668,H5N1_confirmed_in_France
+1402,Germany,51.5,10.5,DE,A,82927922,H5N1_confirmed_in_France
+1403,Slovenia,46.08333,15,SI,A,2067372,H5N1_confirmed_in_France
+1404,France,46,2,FR,A,66987244,H5N1_confirmed_in_France
+1405,Austria,47.33333,13.33333,AT,A,8847037,H5N1_confirmed_in_France
+1406,Croatia,45.16667,15.5,HR,A,4089400,H5N1_confirmed_in_France
+1407,Somme,49.93141,2.27639,FR,A,582469,H5N1_confirmed_in_France
+1408,Bulgaria,42.66667,25.25,BG,A,7000039,H5N1_confirmed_in_France
+1409,Lyon,45.75889,4.84139,FR,A,515695,H5N1_confirmed_in_France
+1410,Italy,42.83333,12.83333,IT,A,60431283,H5N1_confirmed_in_France
+1411,Denmark,56,10,DK,A,5797446,H5N1_confirmed_in_France
+1412,City of Santa Ana,33.73662,-117.88186,US,A,0,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
+1413,Newport Beach,33.61891,-117.92895,US,P,87127,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
+1414,Irvine,33.66946,-117.82311,US,P,256927,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
+1415,Franklin,39.96952,-83.00935,US,A,1163414,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
+1416,Santa Ana,33.74557,-117.86783,US,P,335400,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
+1417,California,37.25022,-119.75126,US,A,39512223,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
+1418,Markland,38.78201,-84.98662,US,P,0,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
